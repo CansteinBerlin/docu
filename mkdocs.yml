@@ -1,69 +1,111 @@
-# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: My Docs
-site_url: https://cansteinberlin.github.io/docu/
-repo_url: https://github.com/CansteinBerlin/docu
-repo_name: CansteinBerlin/docu
+# Project information
+site_name: Dokumentation
+site_url: https://cansteinberlin.github.io/docu
+site_description: >-
+  Alle Informationen zum Server Canstein-Berlin.de übersichtlich
+  erklärt.
 
+# Repository
+repo_name: CansteinBerlin/docu
+repo_url: https://github.com/CansteinBerlin/docu
+
+# Copyright
+copyright: Copyright &copy; 2023 von Cansteinsche Bibelanstalt in Berlin e.V.
+
+# Configuration
 theme:
-  logo: assets/images/icon.svg
-  favicon: assets/images/icon.svg
   name: material
   locale: en
-  features:
-  - navigation.sections
-  - content.code.copy
-  - content.code.select
-  - search.suggest
-  - search.highlight
-  - search.share
   font:
-    code: Roboto Mono
+      text: Roboto
+      code: Roboto Mono
+    favicon: assets/favicon.png
+    icon:
+      logo: assets/logo.png
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
   palette:
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      primary: red
-      accent: indigo
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: red
+    - scheme: default
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: red
+    - scheme: slate
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-4
-        name: Switch to system preference
+        name: Switch to light mode
 
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
 
+# Extensions
 markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - def_list
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
-  - attr_list
-  - md_in_html
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-
-plugins:
-  - search:
-      lang:
-        - en
+  - pymdownx.tilde
