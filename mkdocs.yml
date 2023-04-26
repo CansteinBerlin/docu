@@ -1,3 +1,7 @@
 site_name: My Docs
 theme:
   name: material
+
+site_url: https://cansteinberlin.github.io/docu/
+repo_url: https://github.com/CansteinBerlin/docu
+repo_name: CansteinBerlin/docu
