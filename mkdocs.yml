@@ -61,13 +61,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-# Plugins
-plugins:
-  - search:
-      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - minify:
-      minify_html: true
-
 # Extensions
 markdown_extensions:
   - abbr
