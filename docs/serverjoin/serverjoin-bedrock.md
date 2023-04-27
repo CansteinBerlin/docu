@@ -22,6 +22,7 @@ Ganz oben befinden sich jetzt drei Menü-Reiter. Nach dem Klick auf den dritten 
 ![Image Server-Eintrag](./images/Bedrock_Join-4.png)
 
 Hier kann der Wunsch-Server eingetragen werden. In der Zeile "Servername" kannst du einen beliebigen Namen zur Wiedererkennung wählen.
+
 In die Zeile "Serveradresse" muss `bedrock.canstein-berlin.de` eingetragen werden und die Zeile "Port" kann mit dem Standard-Port für Bedrock gelassen werden.
 
 ### Schritt 5
