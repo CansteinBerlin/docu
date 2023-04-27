@@ -21,7 +21,7 @@ theme:
       code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: assets/logo.png
+    logo: assets/logo
   features:
     - announce.dismiss
     - content.action.edit
