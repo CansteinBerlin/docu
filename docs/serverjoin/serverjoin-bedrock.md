@@ -3,6 +3,16 @@ Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Min
 
 # Betritt
 
+<figure markdown>
+  ![Image Minecraft-Launcher](./images/Bedrock_Join-1.png){ width="300" }
+  <figcaption>XXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXX</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image Minecraft-Launcher](./images/Bedrock_Join-1.png){ width="300" align=right }
+  <figcaption>ttt XXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXX</figcaption>
+</figure>
+
 # Account-Synchronisierung
 Da grundsätzlich der Bedrock-Account als neuer Account gezählt wird, muss dieser erst mit dem Java-Account verlinkt / synchronisiert werden.
 
