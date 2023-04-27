@@ -3,25 +3,16 @@ Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Min
 
 # Betritt
 
-### Image captions
+ ``` markdown title="Schritt 1"
+ ```
 
-Sadly, the Markdown syntax doesn't provide native support for image captions,
-but it's always possible to use the [Markdown in HTML] extension with literal
-`figure` and `figcaption` tags:
+ <div class="result" markdown>
 
-``` html title="Image with caption"
-<figure markdown>
-  ![Image title](https://dummyimage.com/600x400/){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
-```
+ ![Image Minecraft-Launcher](./images/Bedrock_Join-1.png){ align=right }
 
-<div class="result">
-  <figure>
-    <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=–%20Image%20–" width="300" />
-    <figcaption>Image caption</figcaption>
-  </figure>
-</div>
+ Im Minecraft-Launcher wird links "Minecraft for Windows" ausgewählt. Nach dem Klick auf "Spielen" unten in der Mitte, startet sich nun das eigentliche Spiel.
+
+ </div>
 
 <div class="result" markdown>
 ![Image Minecraft-Launcher](./images/Bedrock_Join-1.png){ align=right }
