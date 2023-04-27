@@ -19,9 +19,9 @@ theme:
   font:
       text: Roboto
       code: Roboto Mono
-  favicon: assets/favicon.png
+  # favicon: assets/favicon.png
   icon:
-    logo: assets/logo
+    logo: assets/Logo_Main_180px.png
   features:
     - announce.dismiss
     - content.action.edit
