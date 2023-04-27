@@ -3,19 +3,29 @@ Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Min
 
 # Betritt
 
+### Schritt 1
 ![Image Minecraft-Launcher](./images/Bedrock_Join-1.png)
+
 Im Minecraft-Launcher wird links "Minecraft for Windows" ausgewählt. Nach dem Klick auf "Spielen" unten in der Mitte, startet sich nun das eigentliche Spiel.
 
+### Schritt 2
 ![Image Haupt-Menü](./images/Bedrock_Join-2.png)
+
 Nun befinden wir uns in der Bedrock-Edition von Minecraft. Eventuell wird man links zur Anmeldung mit dem Microsoft-Account aufgefordert. Wenn dies erledigt ist, klickt man auf den großen Button "Spielen".
 
+### Schritt 3
 ![Image Spiel-Menü](./images/Bedrock_Join-3.png)
+
 Ganz oben befinden sich nun drei Menü-Reiter. Nach dem Klick auf den dritten Reiter "Server" gelangt man in die Server-Liste. Wir möchten einen neuen Server eintragen. Dazu Scrollen wir uns durch die Server-Vorschläge und klicken links unten auf den Button "Server hinzufügen".
 
+### Schritt 4
 ![Image Server-Eintrag](./images/Bedrock_Join-4.png)
+
 Nun kann der Server eingetragen werden. In der Zeile "Servername" kannst du einen beliebigen Namen zur Wiedererkennung wählen. In die Zeile "Serveradresse" muss `bedrock.canstein-berlin.de` eingetragen werden und die Zeile "Port" kann mit dem Standard-Port für Bedrock gelassen werden.
 
+### Schritt 5
 ![Image angepasste Server-Liste](./images/Bedrock_Join-5.png)
+
 Nachdem der Server eingetragen wurde, wird er nun in der Server-Liste ganz unten bei "Zusätzliche Server" aufgelistet. Klickt man nun auf diesen Server-Eintrag, erhält man nun auf der rechten Seite die wichtigsten Informationen zum Server. Nach dem Klick auf den Button "Server betreten" gelangt man schließlich auf den Server.
 
 # Account-Synchronisierung
