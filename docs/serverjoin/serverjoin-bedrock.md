@@ -3,6 +3,26 @@ Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Min
 
 # Betritt
 
+### Image captions
+
+Sadly, the Markdown syntax doesn't provide native support for image captions,
+but it's always possible to use the [Markdown in HTML] extension with literal
+`figure` and `figcaption` tags:
+
+``` html title="Image with caption"
+<figure markdown>
+  ![Image title](https://dummyimage.com/600x400/){ width="300" }
+  <figcaption>Image caption</figcaption>
+</figure>
+```
+
+<div class="result">
+  <figure>
+    <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=–%20Image%20–" width="300" />
+    <figcaption>Image caption</figcaption>
+  </figure>
+</div>
+
 <div class="result" markdown>
 ![Image Minecraft-Launcher](./images/Bedrock_Join-1.png){ align=right }
 Im Minecraft-Launcher wird links "Minecraft for Windows" ausgewählt. Nach dem Klick auf "Spielen" unten in der Mitte, startet sich nun das eigentliche Spiel.
@@ -24,7 +44,7 @@ Nun kann der Server eingetragen werden. In der Zeile "Servername" kannst du eine
 </div>
 
 <div class="result" markdown>
-![Image angepasste Server-Liste](./images/Bedrock_Join-4.png){ align=right }
+![Image angepasste Server-Liste](./images/Bedrock_Join-5.png){ align=right }
 Nachdem der Server eingetragen wurde, wird er nun in der Server-Liste ganz unten bei "Zusätzliche Server" aufgelistet. Klickt man nun auf diesen Server-Eintrag, erhält man nun auf der rechten Seite die wichtigsten Informationen zum Server. Nach dem Klick auf den Button "Server betreten" gelangt man schließlich auf den Server.
 </div>
 
