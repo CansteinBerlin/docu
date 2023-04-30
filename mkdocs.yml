@@ -33,8 +33,8 @@ theme:
   name: material
   locale: de
   font:
-      text: Roboto
-      code: Roboto Mono
+    text: Roboto
+    code: Roboto Mono
   # favicon: assets/favicon.png
   logo: assets/Logo_Main_180px.png
   features:
@@ -63,18 +63,16 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
+    # Palette toggle for light mode
     - scheme: default
-      primary: indigo
-      accent: indigo
       toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+        icon: material/lightbulb
+        name: "wechsle in den Dark-Mode"
+    # Palette toggle for dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
       toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+        icon: material/lightbulb-outline
+        name: "wechsle in den Light-Mode"
 
 extra_css:
   - stylesheets/extra.css
