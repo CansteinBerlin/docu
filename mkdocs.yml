@@ -17,21 +17,21 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Canstein_Berlin
-      name: @Canstein_Berlin auf Twitter
+      name: "@Canstein_Berlin auf Twitter"
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Bibellabor_MC
-      name: @Bibellabor_MC auf Twitter
+      name: "@Bibellabor_MC auf Twitter"
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/bibellabor_mc
-      name: @Bibellabor_MC auf Instagram
+      name: "@Bibellabor_MC auf Instagram"
     - icon: fontawesome/brands/discord
       link: https://www.discord.gg/9TyxfuG
-      name: offizieller Discord Server
+      name: "offizieller Discord Server"
 
 # Configuration
 theme:
   name: material
-  locale: en
+  locale: de
   font:
       text: Roboto
       code: Roboto Mono
