@@ -15,7 +15,7 @@ copyright: Copyright &copy; 2023 von Cansteinsche Bibelanstalt in Berlin e.V.
 # Configuration
 theme:
   name: material
-  locale: en
+  locale: de
   font:
       text: Roboto
       code: Roboto Mono
