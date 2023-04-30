@@ -31,7 +31,7 @@ extra:
 # Configuration
 theme:
   name: material
-  locale: de
+  language: de
   font:
     text: Roboto
     code: Roboto Mono
