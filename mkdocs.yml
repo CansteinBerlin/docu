@@ -12,6 +12,22 @@ repo_url: https://github.com/CansteinBerlin/docu
 # Copyright
 copyright: Copyright &copy; 2023 von Cansteinsche Bibelanstalt in Berlin e.V.
 
+# Social links
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Canstein_Berlin
+      name: @Canstein_Berlin auf Twitter
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Bibellabor_MC
+      name: @Bibellabor_MC auf Twitter
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/bibellabor_mc
+      name: @Bibellabor_MC auf Instagram
+    - icon: fontawesome/brands/discord
+      link: https://www.discord.gg/9TyxfuG
+      name: offizieller Discord Server
+
 # Configuration
 theme:
   name: material
