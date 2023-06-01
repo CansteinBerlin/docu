@@ -1,7 +1,7 @@
 # Server betreten (MC Bedrock)
 Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Minecraft Bedrock Edition**.
 
-# Betritt
+# Beitritt
 
 ### Schritt 1
 ![Image Minecraft-Launcher](./images/Bedrock_Join-1.png)
