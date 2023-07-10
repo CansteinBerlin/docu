@@ -40,7 +40,7 @@ Nachdem der Server eingetragen wurde, wird er nun in der Server-Liste ganz unten
 
 [![](https://markdown-videos.vercel.app/youtube/dk2rrJGcBLs)](https://youtu.be/dk2rrJGcBLs)
 
-### Beitritt über die XBOX
+### Beitritt über die Xbox One
 
 [![](https://markdown-videos.vercel.app/youtube/g8mHvasVHMs)](https://youtu.be/g8mHvasVHMs)
 
