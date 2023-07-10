@@ -3,32 +3,46 @@ Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Min
 
 ## Beitritt
 
-### Schritt 1
+### Beitritt über Windows PC
+
+#### Schritt 1
 ![Image Minecraft-Launcher](./images/Bedrock_Join-1.png)
 
 Im Minecraft-Launcher wird links "Minecraft for Windows" ausgewählt. Nach dem Klick auf "Spielen" unten in der Mitte, startet sich nun das eigentliche Spiel.
 
-### Schritt 2
+#### Schritt 2
 ![Image Haupt-Menü](./images/Bedrock_Join-2.png)
 
 Nun befinden wir uns in der Bedrock-Edition von Minecraft. Eventuell wird man links zur Anmeldung mit dem Microsoft-Account aufgefordert. Wenn dies erledigt ist, klickt man auf den großen Button "Spielen".
 
-### Schritt 3
+#### Schritt 3
 ![Image Spiel-Menü](./images/Bedrock_Join-3.png)
 
 Ganz oben befinden sich jetzt drei Menü-Reiter. Nach dem Klick auf den dritten Reiter "Server" gelangt man in die Server-Liste. Wir möchten einen neuen Server eintragen. Dazu scrollen wir uns durch die Server-Vorschläge und klicken links unten auf den Button "Server hinzufügen".
 
-### Schritt 4
+#### Schritt 4
 ![Image Server-Eintrag](./images/Bedrock_Join-4.png)
 
 Hier kann der Wunsch-Server eingetragen werden. In der Zeile "Servername" kannst du einen beliebigen Namen zur Wiedererkennung wählen.
 
 In die Zeile "Serveradresse" muss `bedrock.canstein-berlin.de` eingetragen werden und die Zeile "Port" kann mit dem Standard-Port für Bedrock gelassen werden.
 
-### Schritt 5
+#### Schritt 5
 ![Image angepasste Server-Liste](./images/Bedrock_Join-5.png)
 
 Nachdem der Server eingetragen wurde, wird er nun in der Server-Liste ganz unten bei "Zusätzliche Server" aufgelistet. Klickt man jetzt auf diesen Server-Eintrag, erhält man auf der rechten Seite die wichtigsten Informationen zum Server. Nach dem Klick auf den Button "Server betreten" kommt man schließlich auf den Server.
+
+### Beitritt über die Switch
+
+[![](https://markdown-videos.vercel.app/youtube/zalT_oR1nPM)](https://youtu.be/zalT_oR1nPM)
+
+### Beitritt über PlayStation 4
+
+[![](https://markdown-videos.vercel.app/youtube/dk2rrJGcBLs)](https://youtu.be/dk2rrJGcBLs)
+
+### Beitritt über die XBOX
+
+[![](https://markdown-videos.vercel.app/youtube/g8mHvasVHMs)](https://youtu.be/g8mHvasVHMs)
 
 ## Account-Synchronisierung
 Da grundsätzlich der Bedrock-Account als neuer Account gezählt wird, muss dieser erst mit dem Java-Account verlinkt / synchronisiert werden.
