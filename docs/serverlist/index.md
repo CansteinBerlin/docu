@@ -1,5 +1,10 @@
 # Server-Übersicht
 
+Hier siehst du die Server-Struktur unseres Server-Netzwerks. "Server-Netzwerk" deswegen, weil es mehrere
+Unter-Server gibt, auf denen die unterschiedlichen Welten verteilt sind. Canstein-Berlin ist mit den Jahren immer 
+komplexer geworden. Umso wichtiger ist die Server-Struktur, mit denen wir die konzeptionell sehr unterschiedlichen 
+Welten separieren können.
+
 ![Image Server-Struktur](./images/Server-Struktur.png)
 
 ## Lobby-Server
@@ -8,12 +13,13 @@
 
 **Befehl:** `/lobby` (kurz :`/lb`)
 
-Der Lobby-Server ist der Eintritts-Punkt auf den Server. Wenn du dich mit dem Server-Netzwerk verbindest, kommst du
-immer erstmal auf die Lobby.
+Der Lobby-Server ist der Eintritts-Punkt in das Minecraft Server-Netzwerk: wenn du mit der Server-Adresse joinst, 
+gelangst du als allererstes immer auf den Lobby-Server.
 
-Von hier aus kannst du per Befehl auf die anderen Server gelangen. In der Lobby findest du wichtige Informationen
-(Regeln, Informationen zum Datenschutz, Kontakt-Adressen und Social-Media Adressen, Ränge und mehr). Zudem befindet 
-sich in der Lobby das Gottesdienst-Portal, dass üblicherweise mit Start eines Gottesdiensts geöffnet wird.
+Von hier aus gelangst du per Befehl auf alle anderen Unter-Server. In der Lobby findest du wichtige Informationen, 
+wie den Link zu den Server-Regeln, Informationen zum Datenschutz, Kontakt-Adressen und Social-Media Adressen, eine 
+Auflistung der Spieler-Ränge, Informationen über aktuelle Event-Termine und mehr. Außerdem steht in der Lobby das 
+Gottesdienst-Portal, dass geöffnet wird, wenn auf dem Event-Server der Gottesdienst bald startet.
 
 ## Game-Server
 
@@ -21,13 +27,14 @@ sich in der Lobby das Gottesdienst-Portal, dass üblicherweise mit Start eines G
 
 **Befehl:** `/games`
 
-Der Game-Server (zurzeit in der Entwicklung) beinhaltet verschiedene rundenbasierte Mini-Games zugunsten der
-Abwechslung. Dabei versuchen wir bei einem Teil der Mini-Games auch theologische Inhalte in die Spiele zu bringen.
+Der Game-Server (zurzeit in der Neu-Entwicklung) beinhaltet verschiedene rundenbasierte Mini-Games, die der 
+abwechslung diesen. Dabei versuchen wir bei einem Teil der Mini-Games auch theologische Inhalte in die 
+Spiele zu bringen.
 
 Aktuelle Mini-Games sind:
-
 - BedWars
 - MasterBuilders
+- geplant: MarioKart (mit Fahrstrecken durch Bibel-Szenen)
 
 ## Event-Server
 
@@ -36,8 +43,8 @@ Aktuelle Mini-Games sind:
 **Befehl:** `/event` (kurz :`/es`)
 
 Auf dem Event-Server finden die Gottesdienste statt. Es handelt sich dabei um Krippenspiel-ähnliche immersive
-Durchläufe entsprechende entsprechenden Bibelgeschichten. Moderiert wird das ganze von der wissenschaftlichen
-Leiterin des Bibellabors _Mareike Witt_ und unserem Pfarrer _Sascha Gebauer_. Mit festlicher Begrüßung, symbolischen
+Durchläufe vorbereiteter Bibelgeschichten. Moderiert wird das ganze von der wissenschaftlichen Leiterin des 
+Bibellabors _Mareike Witt_ und unserem Pfarrer _Sascha Gebauer_. Mit festlicher Begrüßung, symbolischen
 Interaktionen, Fürbitten oder dem abschließenden Vaterunser, wird das ganze Event zu einem vollwertigen Gottesdienst.
 
 ## Kreativ-Server
@@ -46,10 +53,9 @@ Interaktionen, Fürbitten oder dem abschließenden Vaterunser, wird das ganze Ev
 
 **Befehl:** `/creative` (kurz :`/cr`)
 
-Auf dem Kreativ-Server sind eine vielzahl von Welten verteilt, die mit unterschiedlichen Projekten zusammenhängen.
+Auf dem Kreativ-Server sind eine Vielzahl von Welten verteilt, die mit unterschiedlichen Projekten zusammenhängen.
 Es gibt Dauer-Angebote für alle Spieler des Servers, wiederkehrende Bau-Events und einmalige Veranstaltungen für
-einen gewissen Zeitraum. Manche Welten werden für ein bestimmtes Projekt verwendet, andere immer wieder genutzt. Die
-meisten Bau-Projekte jedoch werden für religiöse Bau-Themen verwendet.
+einen gewissen Zeitraum. Manche Welten werden für ein bestimmtes Projekt verwendet, andere immer wieder genutzt.
 
 ## Survival-Server
 
@@ -58,17 +64,14 @@ meisten Bau-Projekte jedoch werden für religiöse Bau-Themen verwendet.
 **Befehl:** `/survival` (kurz :`/sv`)
 
 Auf dem Survival-Server spielt unsere Minecraft-Community nach Lust und Laune Minecraft im Überlebens-Modus nach dem
-üblichen "Freebuild-Prinzip". Es gibt eine normale Oberwelt, einen Nether und das End. Auch sonst ist der Server
-recht nahe am Vanilla-Stil gehalten. Der Server wird nicht für didaktische Zwecke verwendet, bleibt also recht
-unabhängig von strengen Themen. Es gibt natürlich ein 
-[Regelwerk für den Survival-Server](https://canstein-berlin.de/regeln-im-survival-server), um ein angenehmes
-Miteinander zu ermöglichen.
+üblichen "Freebuild" - Konzept: Jeder kann also grundsätzlich überall bauen, wenn die Region noch nicht belegt ist. 
+Der Server ist recht nahe am Vanilla-Stil, wonach es also eine normale Oberwelt, einen Nether und das End gibt.
 
-Auf dem Survival-Server ist es möglich, seine Region sichern zu lassen, um "Griefing" zu verhindern und eine gewisse
-Fläche sein Eigen nenne zu dürfen. Für die Sicherungen steht den Spielern das Support-Team gerne zur Verfügung.
-Durch gesicherte Regionen haben sich mit der Zeit auch ganze Dörfer und Gruppierungen gebildet, in denen die Spieler
-in ihrer "Gilde" zusammenbauen und zusammenspielen. Aber auch sonst ist auf dem Server-Netzwerk ein sehr
-freundliches Miteinander üblich.
+Der Server wird nicht für didaktische Zwecke verwendet, bleibt also recht unabhängig und wird von unseren Supportern 
+moderiert. Es gibt natürlich ein [Regelwerk für den Survival-Server](https://canstein-berlin.de/regeln-im-survival-server),
+um ein angenehmes Miteinander zu ermöglichen. Durch gesicherte Regionen haben sich mit der Zeit auch ganze Dörfer 
+und Gruppierungen gebildet, in denen die Spieler in ihrer "Gilde" zusammenbauen und zusammenspielen. Aber auch sonst 
+herrscht auch auf dem Survival-Server ein freundliches und hilfsbereites Klima.
 
-Auch auf dem Survival-Server finden ab und zu kleinere Events statt. Diese werden dann von Teammitgliedern oder
-Stammspieler vorbereitet und haben den Spaß-Faktor im Vordergrund.
+Auch auf dem Survival-Server finden ab und zu kleinere Events statt. Diese werden dann von Teammitgliedern oder 
+freiwilligen Stammspieler vorbereitet.
