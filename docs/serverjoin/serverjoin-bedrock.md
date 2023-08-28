@@ -1,4 +1,5 @@
 # Server betreten (MC Bedrock)
+
 Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Minecraft Bedrock Edition**.
 
 ## Beitritt
@@ -6,6 +7,7 @@ Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Min
 ### Beitritt über Windows PC
 
 #### Schritt 1
+
 ![Image Minecraft-Launcher Haupt-Ansicht](./images/Bedrock_Join-1.png)
 
 Im Minecraft-Launcher wird links "Minecraft for Windows" ausgewählt. Nach dem Klick auf "Spielen" unten in der Mitte
@@ -64,6 +66,7 @@ Da grundsätzlich der Bedrock-Account als neuer Account gezählt wird, muss dies
 / synchronisiert werden.
 
 ### Lokale Verlinkung
+
 Die "Lokale Verlinkung" meint hiermit die Java-zu-Bedrock-Account Verlinkung ausschließlich auf dem Canstein-Netzwerk.
 
 1. Ausführung als Java-Spieler: `/linkaccount <"Gamer-Tag" = XBOX-Name (mit oder ohne Punkt)>`
@@ -89,6 +92,7 @@ Canstein-Netzwerk ausgeführt werden. Wenn es eine Globale Verlinkung war, muss 
 ausgeführt werden.
 
 ## Weitere Befehle
+
 * Java Advancements anzeigen: `/geyser advancements`
 * Java Statistiken anzeigen: `/geyser statistics`
 * einen Gegenstand in die Off-Hand legen: `/geyser offhand`

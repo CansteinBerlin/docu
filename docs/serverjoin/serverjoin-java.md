@@ -1,4 +1,5 @@
 # Server betreten (MC Java)
+
 Unser Server-Netzwerk läuft nativ auf der **Minecraft Java Edition**. Das ist auch das "ursprüngliche"
 Minecraft-Spiel, dessen Entwicklung am 10. Mai 2009 begann.
 
@@ -7,6 +8,7 @@ Minecraft-Spiel, dessen Entwicklung am 10. Mai 2009 begann.
 ### Beitritt über Windows PC (inkl. Erst-Einrichtung)
 
 #### Schritt 1
+
 ![Image Minecraft-Launcher Haupt-Ansicht](./images/Java_Join-1.png)
 
 Im Minecraft-Launcher wird links "Minecraft: Java Edition" ausgewählt.
@@ -15,11 +17,13 @@ Da unser Server-Netzwerk nicht immer sofort mit der "Neusten Vollversion" von Mi
 Spiel-Installation angepasst. Klicke dafür im oberen Reiter auf "Installationen".
 
 #### Schritt 2
+
 ![Image Standard Installations-Liste](./images/Java_Join-2.png)
 
 Hier kannst du nun über den Button "Neue Installation" eine neue Spiel-Installation anlegen.
 
 #### Schritt 3
+
 ![Image Installations-Eintrag](./images/Java_Join-3.png)
 
 Das Profil-Symbol ganz oben und den "Name" der Installation kann von dir frei gewählt werden.
@@ -57,11 +61,13 @@ du magst, kannst du die Sprache nun über "Language" anpassen.
 Auch entsprechende Barrierefreiheiten lassen sich bereits hier einstellen.
 
 #### Schritt 7
+
 ![Image Menü der Ersteinrichtung (deutsch)](./images/Java_Join-7.png)
 
 Anschließend kannst du nun auf "Fortfahren" klicken, um die "Ersteinrichtung" abzuschließen.
 
 #### Schritt 8
+
 ![Image Haupt-Menü](./images/Java_Join-8.png)
 
 Du befindest dich nun im Haupt-Menü des Spiels. Über den zweiten Button "Mehrspieler" gelangst du zur Server-Liste.

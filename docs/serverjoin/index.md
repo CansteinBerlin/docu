@@ -9,7 +9,6 @@ den möglichst einfachen Beitritt auf das Minecraft Server-Netzwerk von Canstein
 [» Anleitung für den Betritt](serverjoin-java.md)
 
 **Geräte:**
-
 - Windows PC (via Java)
 
 ## Minecraft Bedrock Edition
@@ -17,7 +16,6 @@ den möglichst einfachen Beitritt auf das Minecraft Server-Netzwerk von Canstein
 [» Anleitung für den Betritt](serverjoin-bedrock.md)
 
 **Geräte:**
-
 - Windows PC
 - Switch (Konsole)
 - PlayStation 4 (Konsole)
