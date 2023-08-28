@@ -1,8 +1,10 @@
 # Server-Übersicht
 
-![Image Übersicht der Server](./images/Server-Liste.png)
+![Image Server-Struktur](./images/Server-Struktur.png)
 
 ## Lobby-Server
+
+![Image Lobby-Server](./images/server/Lobby.png)
 
 Der Lobby-Server ist der Eintritts-Punkt auf den Server. Wenn du dich mit dem Server-Netzwerk verbindest, kommst du
 immer erstmal auf die Lobby.
@@ -11,9 +13,11 @@ Von hier aus kannst du per Befehl auf die anderen Server gelangen. In der Lobby 
 (Regeln, Infos zum Datenschutz, Kontakt-Adressen und Social-Media Adressen, Ränge, ...). Zudem befindet sich in der
 Lobby das Gottesdienst-Portal, dass üblicherweise mit Start eines Gottesdiensts geöffnet wird.
 
-## Games-Server
+## Game-Server
 
-Der Games-Server (zurzeit in der Entwicklung) beinhaltet verschiedene rundenbasierte Minigames zu Gunten der
+![Image Game-Server](./images/server/Games.png)
+
+Der Game-Server (zurzeit in der Entwicklung) beinhaltet verschiedene rundenbasierte Minigames zu Gunten der
 Abwechslung. Dabei versuchen wir bei einem Teil der Minigames auch theologische Inhalte in die Spiele zu bringen.
 
 Aktuelle Minigames sind:
@@ -23,6 +27,8 @@ Aktuelle Minigames sind:
 
 ## Event-Server
 
+![Image Event-Server](./images/server/Events.png)
+
 Auf dem Event-Server finden die Gottesdienste statt. Es handelt sich dabei um Grippenspiel-ähnliche immersive
 Durchläufe entsprechende entsprechenden Bibelgeschichten. Moderiert wird das ganze von der wissenschaftlichen
 Leiterin des Bibellabors _Mareike Witt_ und unserem Pfarrer _Sascha Gebauer_. Mit festlicher Begrüßung, symbolischen
@@ -30,12 +36,16 @@ Interaktionen, Fürbitten oder dem abschließenden Vaterunser, wird das ganze Ev
 
 ## Kreativ-Server
 
+![Image Kreativ-Server](./images/server/Kreativ.png)
+
 Auf dem Kreativ-Server sind eine vielzahl von Welten verteilt, die mit unterschiedlichen Projekten zusammenhängen.
 Es gibt Dauer-Angebote für alle Spieler des Servers, wiederkehrende Bau-Events und einmalige Veranstaltungen für
 einen gewissen Zeitraum. Manche Welten werden für ein bestimmtes Projekt verwendet, andere immer wieder genutzt. Die
 meisten Bau-Projekte jedoch werden für religiöse Bau-Themen verwendet.
 
 ## Survival-Server
+
+![Image Survival-Server](./images/server/Survival.png)
 
 Auf dem Survival-Server spielt unsere Minecraft-Community nach Lust und Laune Minecraft im Überlebens-Modus nach dem
 üblichen "Freebuild-Prinzip". Es gibt eine normale Oberwelt, einen Nether und das End. Auch sonst ist der Server
