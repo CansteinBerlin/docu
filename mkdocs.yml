@@ -122,6 +122,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Server beitreten:
+  - Server beitreten: index.md
     - Java Edition: serverjoin/serverjoin-java.md
     - Bedrock Edition: serverjoin/serverjoin-bedrock.md
+  - Server Übersicht: serverlist/index.md
