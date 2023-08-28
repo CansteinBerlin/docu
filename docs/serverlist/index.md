@@ -6,7 +6,7 @@
 
 ![Image Lobby-Server](./images/server/Lobby.png)
 
-Befehl: `/lobby` (kurz `/lb`)
+**Befehl:** `/lobby` (kurz :`/lb`)
 
 Der Lobby-Server ist der Eintritts-Punkt auf den Server. Wenn du dich mit dem Server-Netzwerk verbindest, kommst du
 immer erstmal auf die Lobby.
@@ -19,7 +19,7 @@ sich in der Lobby das Gottesdienst-Portal, dass üblicherweise mit Start eines G
 
 ![Image Game-Server](./images/server/Games.png)
 
-Befehl: `/games`
+**Befehl:** `/games`
 
 Der Game-Server (zurzeit in der Entwicklung) beinhaltet verschiedene rundenbasierte Mini-Games zugunsten der
 Abwechslung. Dabei versuchen wir bei einem Teil der Mini-Games auch theologische Inhalte in die Spiele zu bringen.
@@ -33,7 +33,7 @@ Aktuelle Mini-Games sind:
 
 ![Image Event-Server](./images/server/Events.png)
 
-Befehl: `/event` (kurz `/es`)
+**Befehl:** `/event` (kurz :`/es`)
 
 Auf dem Event-Server finden die Gottesdienste statt. Es handelt sich dabei um Krippenspiel-ähnliche immersive
 Durchläufe entsprechende entsprechenden Bibelgeschichten. Moderiert wird das ganze von der wissenschaftlichen
@@ -44,7 +44,7 @@ Interaktionen, Fürbitten oder dem abschließenden Vaterunser, wird das ganze Ev
 
 ![Image Kreativ-Server](./images/server/Kreativ.png)
 
-Befehl: `/creative` (kurz `/cr`)
+**Befehl:** `/creative` (kurz :`/cr`)
 
 Auf dem Kreativ-Server sind eine vielzahl von Welten verteilt, die mit unterschiedlichen Projekten zusammenhängen.
 Es gibt Dauer-Angebote für alle Spieler des Servers, wiederkehrende Bau-Events und einmalige Veranstaltungen für
@@ -55,7 +55,7 @@ meisten Bau-Projekte jedoch werden für religiöse Bau-Themen verwendet.
 
 ![Image Survival-Server](./images/server/Survival.png)
 
-Befehl: `/survival` (kurz `/sv`)
+**Befehl:** `/survival` (kurz :`/sv`)
 
 Auf dem Survival-Server spielt unsere Minecraft-Community nach Lust und Laune Minecraft im Überlebens-Modus nach dem
 üblichen "Freebuild-Prinzip". Es gibt eine normale Oberwelt, einen Nether und das End. Auch sonst ist der Server
