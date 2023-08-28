@@ -3,7 +3,7 @@ Unser Server-Netzwerk läuft nativ auf der **Minecraft Java Edition**. Das ist a
 
 ## Beitritt
 
-### Beitritt über Windows PC (inklusive empfohlener Einrichtung der Spiel-Installation)
+### Beitritt über Windows PC (inkl. Erst-Einrichtung)
 
 #### Schritt 1
 ![Image Minecraft-Launcher Haupt-Ansicht](./images/Java_Join-1.png)
