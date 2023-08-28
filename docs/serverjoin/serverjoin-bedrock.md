@@ -6,9 +6,9 @@ Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Min
 ### Beitritt über Windows PC
 
 #### Schritt 1
-![Image Minecraft-Launcher](./images/Bedrock_Join-1.png)
+![Image Minecraft-Launcher Haupt-Ansicht](./images/Bedrock_Join-1.png)
 
-Im Minecraft-Launcher wird links "Minecraft for Windows" ausgewählt. Nach dem Klick auf "Spielen" unten in der Mitte, startet sich nun das eigentliche Spiel.
+Im Minecraft-Launcher wird links "Minecraft for Windows" ausgewählt. Nach dem Klick auf "Spielen" unten in der Mitte startet sich nun das eigentliche Spiel.
 
 #### Schritt 2
 ![Image Haupt-Menü](./images/Bedrock_Join-2.png)
@@ -30,7 +30,9 @@ In die Zeile "Serveradresse" muss `bedrock.canstein-berlin.de` eingetragen werde
 #### Schritt 5
 ![Image angepasste Server-Liste](./images/Bedrock_Join-5.png)
 
-Nachdem der Server eingetragen wurde, wird er nun in der Server-Liste ganz unten bei "Zusätzliche Server" aufgelistet. Klickt man jetzt auf diesen Server-Eintrag, erhält man auf der rechten Seite die wichtigsten Informationen zum Server. Nach dem Klick auf den Button "Server betreten" kommt man schließlich auf den Server.
+Nachdem der Server eingetragen wurde, wird er nun in der Server-Liste ganz unten bei "Zusätzliche Server" aufgelistet. Klickt man jetzt auf diesen Server-Eintrag, erhält man auf der rechten Seite die wichtigsten Informationen zum Server.
+
+Nach dem Klick auf den Button "Server betreten" kommt man schließlich auf unser Server-Netzwerk.
 
 ### Beitritt über die Switch
 
