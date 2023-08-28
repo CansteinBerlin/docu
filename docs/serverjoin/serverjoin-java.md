@@ -1,5 +1,5 @@
 # Server betreten (MC Java)
-Unser Server-Netzwerk läuft nativ auf der **Minecraft Java Edition**. Das ist auch die "ursprüngliche" Minecraft-Spiel, dessen Entwicklung am 10. Mai 2009 begann.
+Unser Server-Netzwerk läuft nativ auf der **Minecraft Java Edition**. Das ist auch das "ursprüngliche" Minecraft-Spiel, dessen Entwicklung am 10. Mai 2009 begann.
 
 ## Beitritt
 
