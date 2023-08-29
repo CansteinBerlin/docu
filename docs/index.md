@@ -2,10 +2,14 @@
 
 **Dies ist die offizielle Dokumentation zum Minecraft-Server Canstein-Berlin.de**
 
-> Das Projekt ist ein Angebot des Bibellabors der **von Cansteinschen Bibelanstalt in Berlin e.V.** - einem
-> unabhängigen, ehrenamtlichen Kirchen-Verein mit dem Ziel die Entstehung der Bibel zu vermitteln und Inhalte der
-> Bibel verständlich und erlebbar zu machen. Auf unserem Minecraft-Server kann jeder mitspielen! Erfahre mehr über
-> uns auf unserer Webseite.
+!!! info ""
+
+    Das Projekt ist ein Angebot des Bibellabors der **von Cansteinschen Bibelanstalt in Berlin e.V.** - einem 
+    unabhängigen, ehrenamtlichen Kirchen-Verein mit dem Ziel die Entstehung der Bibel zu vermitteln und Inhalte der 
+    Bibel verständlich und erlebbar zu machen. Auf unserem Minecraft-Server kann jeder mitspielen! Erfahre mehr über uns 
+    auf unserer Webseite.
+
+![Projekt-Label: Bibellabor Minecraft](assets/Logo&Schild_Minecraft_200px.png){ align=center }
 
 ## Minecraft-Server:
 
@@ -35,4 +39,4 @@
 * Discord: https://www.discord.gg/9TyxfuG
 * E-Mail: [kontakt@canstein-berlin.de](mailto:kontakt@canstein-berlin.de)
 
-![grafik](assets/images/israel_campfire.png)
+![Ingame-Screenshot: Lagerfeuer](assets/images/israel_campfire.png)
