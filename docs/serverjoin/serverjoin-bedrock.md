@@ -8,21 +8,21 @@ Seit diesem Jahr unterstützt unser Server-Netzwerk nun auch offiziell die **Min
 
 #### Schritt 1
 
-![Image Minecraft-Launcher Haupt-Ansicht](./images/Bedrock_Join-1.png)
+![Minecraft-Launcher Haupt-Ansicht](./images/Bedrock_Join-1.png)
 
 Im Minecraft-Launcher wird links "Minecraft for Windows" ausgewählt. Nach dem Klick auf "Spielen" unten in der Mitte
 startet sich nun das eigentliche Spiel.
 
 #### Schritt 2
 
-![Image Haupt-Menü](./images/Bedrock_Join-2.png)
+![Haupt-Menü](./images/Bedrock_Join-2.png)
 
 Nun befinden wir uns in der Bedrock-Edition von Minecraft. Eventuell wird man links zur Anmeldung mit dem
 Microsoft-Account aufgefordert. Wenn dies erledigt ist, klickt man auf den großen Button "Spielen".
 
 #### Schritt 3
 
-![Image Spiel-Menü](./images/Bedrock_Join-3.png)
+![Spiel-Menü](./images/Bedrock_Join-3.png)
 
 Ganz oben befinden sich jetzt drei Menü-Reiter. Nach dem Klick auf den dritten Reiter "Server" gelangt man in die
 Server-Liste. Wir möchten einen neuen Server eintragen. Dazu scrollen wir uns durch die Server-Vorschläge und
@@ -30,7 +30,7 @@ klicken links unten auf den Button "Server hinzufügen".
 
 #### Schritt 4
 
-![Image Server-Eintrag](./images/Bedrock_Join-4.png)
+![Server-Eintrag](./images/Bedrock_Join-4.png)
 
 Hier kann der Wunsch-Server eingetragen werden. In der Zeile "Servername" kannst du einen beliebigen Namen zur
 Wiedererkennung wählen.
@@ -40,7 +40,7 @@ Standard-Port für Bedrock gelassen werden.
 
 #### Schritt 5
 
-![Image angepasste Server-Liste](./images/Bedrock_Join-5.png)
+![angepasste Server-Liste](./images/Bedrock_Join-5.png)
 
 Nachdem der Server eingetragen wurde, wird er nun in der Server-Liste ganz unten bei "Zusätzliche Server"
 aufgelistet. Klickt man jetzt auf diesen Server-Eintrag, erhält man auf der rechten Seite die wichtigsten

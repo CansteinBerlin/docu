@@ -5,11 +5,11 @@ Unter-Server gibt, auf denen die unterschiedlichen Welten verteilt sind. Canstei
 komplexer geworden. Umso wichtiger ist die Server-Struktur, mit denen wir die konzeptionell sehr unterschiedlichen 
 Welten separieren können.
 
-![Image Server-Struktur](./images/Server-Struktur.png)
+![Server-Struktur](./images/Server-Struktur.png)
 
 ## Lobby-Server
 
-![Image Lobby-Server](./images/server/Lobby.png)
+![Lobby-Server](./images/server/Lobby.png)
 
 **Befehl:** `/lobby` (kurz :`/lb`)
 
@@ -23,7 +23,7 @@ Gottesdienst-Portal, dass geöffnet wird, wenn auf dem Event-Server der Gottesdi
 
 ## Game-Server
 
-![Image Game-Server](./images/server/Games.png)
+![Game-Server](./images/server/Games.png)
 
 **Befehl:** `/games`
 
@@ -39,7 +39,7 @@ Aktuelle Mini-Games sind:
 
 ## Event-Server
 
-![Image Event-Server](./images/server/Events.png)
+![Event-Server](./images/server/Events.png)
 
 **Befehl:** `/event` (kurz :`/es`)
 
@@ -50,7 +50,7 @@ Interaktionen, Fürbitten oder dem abschließenden Vaterunser, wird das ganze Ev
 
 ## Kreativ-Server
 
-![Image Kreativ-Server](./images/server/Kreativ.png)
+![Kreativ-Server](./images/server/Kreativ.png)
 
 **Befehl:** `/creative` (kurz :`/cr`)
 
@@ -60,7 +60,7 @@ einen gewissen Zeitraum. Manche Welten werden für ein bestimmtes Projekt verwen
 
 ## Survival-Server
 
-![Image Survival-Server](./images/server/Survival.png)
+![Survival-Server](./images/server/Survival.png)
 
 **Befehl:** `/survival` (kurz :`/sv`)
 
