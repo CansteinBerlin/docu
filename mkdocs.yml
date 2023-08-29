@@ -126,5 +126,5 @@ nav:
     - serverjoin/index.md
     - Java Edition: serverjoin/serverjoin-java.md
     - Bedrock Edition: serverjoin/serverjoin-bedrock.md
-  - Server Übersicht: serverlist/index.md
+  - Server-Übersicht: serverlist/index.md
   - Kooperation: cooperation/index.md

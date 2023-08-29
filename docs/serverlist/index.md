@@ -1,6 +1,6 @@
 # Server-Übersicht
 
-Hier siehst du die Server-Struktur unseres Server-Netzwerks. "Server-Netzwerk" deswegen, weil es mehrere
+Hier siehst du die Server-Struktur unseres Server-Netzwerks. "Server-Netzwerk" deswegen, weil es mehrere 
 Unter-Server gibt, auf denen die unterschiedlichen Welten verteilt sind. Canstein-Berlin ist mit den Jahren immer 
 komplexer geworden. Umso wichtiger ist die Server-Struktur, mit denen wir die konzeptionell sehr unterschiedlichen 
 Welten separieren können.

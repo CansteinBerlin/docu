@@ -1,6 +1,6 @@
 # Kooperation und Freiraum für eigene Bildungs-Angebote
 
-# Über uns
+## Über uns
 
 Das Bibellabor der **von Cansteinschen Bibelanstalt in Berlin e.V.** nutzt seit 2019 den Minecraft-Server als 
 mediales Mittel für kirchliche und pädagogische Bildungs-Angebote für Kinder und Jugendliche, sowie für 
@@ -29,9 +29,9 @@ Start-Regionen. Es brauch **Wissen** über die Standards von Minecraft-Servern, 
 Erfahrungen im Bereich der Informatik, sowie Wissen über Datenschutz und Sicherheitstechniken. Und es kostet 
 **Geld** einen eigenen Server zu mieten und entsprechende Arbeitsstunden in deren Entwicklung zu investieren. Einen 
 Großteil davon können wir Ihnen ersparen, ohne dass Ihre Projekt-Idee dadurch negativ beeinflusst wird. **Die Basis 
-eines jeden Game-Server steht bei uns schon bereit.**
+eines jeden Game-Servers steht bei uns schon bereit.**
 
 Wir bieten Ihnen die Einrichtung der gewünschten Welten, Regionen, Ränge oder Plugins. Das Projekt soll nach Ihren 
 Anforderungen bei uns vorbereitet werden und von Ihnen gestaltet werden können. Am Ende läuft es für eure Spieler 
-und für die bestehenden Spieler unseres Netzwerks unter eurem Namen und eurem Logo. Lassen Sie uns zusammen mit 
+und für die bestehenden Spieler unseres Netzwerks **unter eurem Namen und eurem Logo**. Lassen Sie uns zusammen mit 
 Ihren Möglichkeiten das Beste unserer Ressourcen nutzen und eine Kooperation starten.
