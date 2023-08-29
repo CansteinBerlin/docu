@@ -2,8 +2,6 @@
 
 This repository is the public knowledge base for **Bibellabor Minecraft** - a project by the **von Cansteinsche Bibelanstalt in Berlin e.V.** .
 
-The documentation can be found at [cansteinberlin.github.io/docu](https://cansteinberlin.github.io/docu/) .
+The documentation can be found at [https://docu.canstein-berlin.de](https://docu.canstein-berlin.de).
 
-
-- Web: [Canstein-Berlin.de](https://canstein-berlin.de)
-- Minecraft-Server: `canstein-berlin.de`
+![Projekt-Label: Bibellabor Minecraft](docs/assets/Logo&Schild_Minecraft_200px.png)
