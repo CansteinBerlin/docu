@@ -32,6 +32,7 @@ abwechslung diesen. Dabei versuchen wir bei einem Teil der Mini-Games auch theol
 Spiele zu bringen.
 
 Aktuelle Mini-Games sind:
+
 - BedWars
 - MasterBuilders
 - geplant: MarioKart (mit Fahrstrecken durch Bibel-Szenen)

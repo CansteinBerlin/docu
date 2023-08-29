@@ -93,7 +93,7 @@ ausgeführt werden.
 
 ## Weitere Befehle
 
-* Java Advancements anzeigen: `/geyser advancements`
-* Java Statistiken anzeigen: `/geyser statistics`
-* einen Gegenstand in die Off-Hand legen: `/geyser offhand`
-* Erweiterte Schnellinfos an/ausschalten: `/geyser tooltips`
+- Java Advancements anzeigen: `/geyser advancements`
+- Java Statistiken anzeigen: `/geyser statistics`
+- einen Gegenstand in die Off-Hand legen: `/geyser offhand`
+- Erweiterte Schnellinfos an/ausschalten: `/geyser tooltips`
