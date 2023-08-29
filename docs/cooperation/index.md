@@ -22,6 +22,8 @@ eingespieltes Support-Team, Mitarbeiter mit jahrelangen Erfahrungen rund um die 
 kurze Kommunikationswege für eine zügige Realisierung Ihrer Ideen. Wir freuen uns immer wieder auf neue Projekte und 
 ein lebendiges Miteinander auf dem Server-Netzwerk.
 
+![Beispiele bisheriger Kooperationen](./images/Kooperation-Banner.png)
+
 Das Einrichten eines Minecraft-Servers braucht viel Zeit, Wissen und Geld. **Zeit** zum Entwickeln des Angebots, 
 klar. Aber auch Zeit zum Einrichten und Austesten aller notwendigen Standard-Plugins, IT-Systeme und 
 Kommunikationswege. Zeit zum Aufbauen eines Server-Teams mit verteilten Aufgaben oder Zeit zum Bauen einladender 
