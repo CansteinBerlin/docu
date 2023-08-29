@@ -32,8 +32,10 @@ In der "Version" wählst du die neuste Voll-Version aus, die es gerade gibt. Ver
 "Neuste Vollversion (...)", da dein Profil sonst immer gleich geupdated wird, auch wenn unser Server vielleicht noch
 nicht so weit ist.
 
-**Tipp:** Wenn du in das Eingabefeld "release" eingibst, werden dir alle verfügbaren Vollversionen angezeigt, die
-der Minecraft-Launcher kennt.
+!!! note
+
+    Wenn du in das Eingabefeld "release" eingibst, werden dir alle verfügbaren Vollversionen angezeigt, die
+    der Minecraft-Launcher kennt.
 
 Die anderen Eingabefelder kannst du ignorieren. Klicke abschließend rechts unten auf "Erstellen".
 
@@ -76,9 +78,11 @@ Du befindest dich nun im Haupt-Menü des Spiels. Über den zweiten Button "Mehrs
 
 ![Image leere Server-Liste](./images/Java_Join-9.png)
 
-**Tipp:** Wenn du das erste Mal auf die Mehrspieler Ansicht gehst, wirst du von Mojang auf die Verwendung von
-Drittanbietern (also den Server) hingewiesen. Lese dir die Info durch und klicke auf "Diesen Hinweis nicht mehr
-anzeigen", bevor du auf "Fortfahren" klickst.
+!!! info
+
+    Wenn du das erste Mal auf die Mehrspieler Ansicht gehst, wirst du von Mojang auf die Verwendung von
+    Drittanbietern (also den Server) hingewiesen. Lese dir die Info durch und klicke auf "Diesen Hinweis nicht mehr
+    anzeigen", bevor du auf "Fortfahren" klickst.
 
 Die Mehrspieler Ansicht beinhaltet die Server-Liste der von dir abgespeicherten Server. Klicke nun auf "Server
 hinzufügen".

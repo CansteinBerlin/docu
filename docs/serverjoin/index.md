@@ -6,7 +6,7 @@ den möglichst einfachen Beitritt auf das Minecraft Server-Netzwerk von Canstein
 
 ## Minecraft Java Edition
 
-[» Anleitung für den Betritt](serverjoin-java.md)
+[Anleitung für den Betritt](serverjoin-java.md){ .md-button }
 
 **Geräte:**
 
@@ -14,7 +14,7 @@ den möglichst einfachen Beitritt auf das Minecraft Server-Netzwerk von Canstein
 
 ## Minecraft Bedrock Edition
 
-[» Anleitung für den Betritt](serverjoin-bedrock.md)
+[Anleitung für den Betritt](serverjoin-bedrock.md){ .md-button }
 
 **Geräte:**
 
