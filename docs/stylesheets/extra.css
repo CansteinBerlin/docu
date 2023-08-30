@@ -20,9 +20,5 @@
 .md-typeset .admonition.basic-info,
 .md-typeset details.basic-info {
     border-color: #331a38;
-}
-
-.md-typeset .admonition,
-.md-typeset details {
     background-color: #331a380f;
 }
