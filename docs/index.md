@@ -11,7 +11,7 @@
 
 ![Projekt-Label: Bibellabor Minecraft](assets/Logo&Schild_Minecraft_200px.png)
 
-## Minecraft-Server:
+## Minecraft-Server
 
 ### Minecraft Java
 
@@ -23,18 +23,18 @@
 
 * Server-Adresse: `bedrock.canstein-berlin.de`
 
-## Über unseren Verein:
+## Über unseren Verein
 
 * Homepage: https://canstein-berlin.de
 * Wir finanzieren uns ausschließlich durch Spenden: https://canstein-berlin.de/spenden
 * YouTube: https://www.youtube.com/@Bibellabor
 
-## Social-Media:
+## Social-Media
 
 * Twitter: https://twitter.com/Bibellabor_MC
 * Instagram: https://www.instagram.com/bibellabor_mc
 
-## Kontakt:
+## Kontakt
 
 * Discord: https://www.discord.gg/9TyxfuG
 * E-Mail: [kontakt@canstein-berlin.de](mailto:kontakt@canstein-berlin.de)

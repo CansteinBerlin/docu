@@ -36,4 +36,4 @@ eines jeden Game-Servers steht bei uns schon bereit.**
 Wir bieten Ihnen die Einrichtung der gewünschten Welten, Regionen, Ränge oder Plugins. Das Projekt soll nach Ihren 
 Anforderungen bei uns vorbereitet werden und von Ihnen gestaltet werden können. Am Ende läuft es für eure Spieler 
 und für die bestehenden Spieler unseres Netzwerks **unter eurem Namen und eurem Logo**. Lassen Sie uns zusammen mit 
-Ihren Möglichkeiten das Beste unserer Ressourcen nutzen und eine Kooperation starten.
+Ihren Möglichkeiten das Beste unserer Ressourcen nutzen und eine Kooperation starten!
