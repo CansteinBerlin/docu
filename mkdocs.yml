@@ -126,5 +126,9 @@ nav:
     - serverjoin/index.md
     - Java Edition: serverjoin/serverjoin-java.md
     - Bedrock Edition: serverjoin/serverjoin-bedrock.md
+  - Regeln:
+    - Allgemeine Regeln: rules/main.md
+    - Minecraft-Regeln: rules/minecraft.md
+    - Discord-Regeln: rules/discord.md
   - Server-Übersicht: serverlist/index.md
   - Kooperation: cooperation/index.md
