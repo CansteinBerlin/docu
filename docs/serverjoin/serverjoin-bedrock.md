@@ -85,7 +85,8 @@ Standardport; also Port `25565` in Java und `19132` in Bedrock) durchgeführt.
 
 ### Aufheben der Verlinkung
 
-Die Verlinkung kann wieder jederzeit mit dem Befehl `/unlinkaccount` aufgehoben werden.
+Die Verlinkung kann wieder jederzeit mit dem Befehl `/unlinkaccount` aufgehoben werden. Nach der Befehls-Eingabe 
+kann man den Server neu betreten, um mit dem vollständig getrennten Bedrock-Account weiterzuspielen.
 
 Wenn die ursprüngliche Verlinkung eine Lokale Verlinkung war, muss natürlich der Befehl zum "Unlinken" auch auf dem
 Canstein-Netzwerk ausgeführt werden. Wenn es eine Globale Verlinkung war, muss der Befehl auf `link.geysermc.org`
