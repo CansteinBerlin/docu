@@ -16,7 +16,7 @@
 ### Minecraft Java
 
 * Server-Adresse: `canstein-berlin.de`
-* interne MC-Version: 1.19.4
+* interne MC-Version: 1.20.4
 * erreichbar mit: 1.13.0 - 1.20.4
 
 ### Minecraft Bedrock
