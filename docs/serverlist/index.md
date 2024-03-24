@@ -55,3 +55,17 @@ Auf dem Survival-Server spielt unsere Minecraft-Community nach Lust und Laune Mi
 Der Server wird nicht für didaktische Zwecke verwendet, bleibt also recht unabhängig und wird von unseren Supportern moderiert. Es gibt natürlich ein [Regelwerk für den Survival-Server](https://canstein-berlin.de/regeln-im-survival-server), um ein angenehmes Miteinander zu ermöglichen. Durch gesicherte Regionen haben sich mit der Zeit auch ganze Dörfer und Gruppierungen gebildet, in denen die Spieler in ihrer "Gilde" zusammenbauen und zusammenspielen. Aber auch sonst herrscht auch auf dem Survival-Server ein freundliches und hilfsbereites Klima.
 
 Auch auf dem Survival-Server finden ab und zu kleinere Events statt. Diese werden dann von Teammitgliedern oder freiwilligen Stammspieler vorbereitet.
+
+## Kooperation-Server
+
+![Kooperation-Server](./images/server/Kooperation.png)
+
+**Befehl:** `/cooperation` (kurz :`/co`)
+
+Auf dem Kooperation-Server befinden sich die Projekt- und Spielwelten unser Kooperations-Partner: Hier schaffen wir den Raum für andere pädagogische Vereine, kirchliche Einrichtungen u.ä., damit diese sich mit ihrem eigenen Team und unter ihrem eigenen Namen mit Minecraft frei entfalten können, ohne dass sie ihren eigenen Server benötigen.
+
+Aktuell können die Welten der folgenden Partnerschaften erreicht werden:
+- Ev. Kirchengemeinde Frankfurt (Oder) / Lebus: `/warp ffo-spawn`
+- Ev. Kirchenkreis Gladbach-Neuss und Umgebung: `/warp glne-spawn`
+
+Weitere Informationen zu unseren Kooperations-Angeboten sind in der Rubrik [Kooperation](../cooperation/index.md) beschrieben.
