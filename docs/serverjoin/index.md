@@ -33,9 +33,9 @@ Abhängig von den zwei obigen Minecraft-Varianten - der Java und der Bedrock Edi
 - Android (Smartphone)
 - …
 
-## Minecraft Education-Edition
+## Minecraft Education Edition
 
-Es gibt noch eine dritte Minecraft-Variante: die "Minecraft Education Edition", die auf die speziellen technischen und moderativen Bedingungen im Schulunterricht angepasst ist. Diese ist nicht mit den obigen zwei Editionen vergleichbar. Sie kommt mit einer sehr dezimierten Variante des Basis-Spiels daher und wurde dann nur noch um ein paar Lehrer-Tools erweitert. Öffentliche Minecraft-Server, wie auch unserer, sind mit der Education-Edition nicht erreichbar, da es den „Multiplayer-Support“ so in der Art dort gar nicht gibt. Da stehen und auch keine technischen Tricks zur Verfügung.
+Die "Minecraft Education Edition" ist auf die speziellen technischen und moderativen Bedingungen im Schulunterricht angepasst und nicht mit den obigen zwei Editionen vergleichbar. Sie kommt mit einer sehr dezimierten Variante des Basis-Spiels daher und wurde dann nur noch um ein paar Lehrer-Tools erweitert. Öffentliche Minecraft-Server, wie auch unserer, sind mit der Education-Edition nicht erreichbar, da es den „Multiplayer-Support“ so in der Art dort gar nicht gibt. Hier stehen uns auch keine technischen Tricks zur Verfügung um die Education Edition doch noch zu supporten und es ist nicht abzusehen, dass sich das in den kommenden Jahren so schnell ändert.
 
 !!! quote "Auszug auf einem technischen Artikel zur MC Education-Edition"
 
