@@ -1,8 +1,6 @@
 # Beitritt
 
-Abhängig von den zwei Spiel Editionen von Minecraft gibt es auch zwei recht unterschiedliche Benutzer-Oberflächen,
-die den Beitritt des Servers unterschiedlich machen. Im Folgenden findest du jeweils eine ausführliche Anleitung für
-den möglichst einfachen Beitritt auf das Minecraft Server-Netzwerk von Canstein:
+Abhängig von den zwei Spiel Editionen von Minecraft gibt es auch zwei recht unterschiedliche Benutzer-Oberflächen, die den Beitritt des Servers unterschiedlich machen. Im Folgenden findest du jeweils eine ausführliche Anleitung für den möglichst einfachen Beitritt auf das Minecraft Server-Netzwerk von Canstein:
 
 ## Minecraft Java Edition
 

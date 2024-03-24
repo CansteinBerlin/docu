@@ -1,7 +1,6 @@
 # Regeln
 
-Damit eine Gemeinschaft funktioniert sind Regeln notwendig. Hier findest du die Regel-Werke, die auf dem 
-Server-Netzwerk **Canstein-Berlin.de** gelten.
+Damit eine Gemeinschaft funktioniert sind Regeln notwendig. Hier findest du die Regel-Werke, die auf dem Server-Netzwerk **Canstein-Berlin.de** gelten.
 
 ## Allgemeine Regeln
 
