@@ -62,7 +62,7 @@ Auch auf dem Survival-Server finden ab und zu kleinere Events statt. Diese werde
 
 **Befehl:** `/cooperation` (kurz :`/co`)
 
-Auf dem Kooperation-Server befinden sich die Projekt- und Spielwelten unser Kooperations-Partner: Hier schaffen wir den Raum für andere pädagogische Vereine, kirchliche Einrichtungen u.ä., damit diese sich mit ihrem eigenen Team und unter ihrem eigenen Namen mit Minecraft frei entfalten können, ohne dass sie ihren eigenen Server benötigen.
+Auf dem Kooperation-Server befinden sich die Projekt- und Spielwelten unser Kooperations-Partner. Hier schaffen wir den Raum für andere pädagogische, didaktische oder kirchliche Einrichtungen u.ä., damit diese sich mit ihrem eigenen Team und unter ihrem eigenen Namen mit Minecraft frei entfalten können, ohne dass sie ihren eigenen Server benötigen.
 
 Aktuell können die Welten der folgenden Partnerschaften erreicht werden:
 - Ev. Kirchengemeinde Frankfurt (Oder) / Lebus: `/warp ffo-spawn`
