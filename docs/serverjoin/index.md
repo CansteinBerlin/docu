@@ -35,12 +35,12 @@ Abhängig von den zwei obigen Minecraft-Varianten - der Java und der Bedrock Edi
 
 ## Minecraft Education Edition
 
-Die "Minecraft Education Edition" ist auf die speziellen technischen und moderativen Bedingungen im Schulunterricht angepasst und nicht mit den obigen zwei Editionen vergleichbar. Sie kommt mit einer sehr dezimierten Variante des Basis-Spiels daher und wurde dann nur noch um ein paar Lehrer-Tools erweitert. Öffentliche Minecraft-Server, wie auch unserer, sind mit der Education-Edition nicht erreichbar, da es den „Multiplayer-Support“ so in der Art dort gar nicht gibt. Hier stehen uns auch keine technischen Tricks zur Verfügung um die Education Edition doch noch zu supporten und es ist nicht abzusehen, dass sich das in den kommenden Jahren so schnell ändert.
+Die "Minecraft Education Edition" ist auf die speziellen technischen und moderativen Bedingungen im Schulunterricht angepasst und nicht mit den obigen zwei Editionen vergleichbar. Sie kommt mit einer sehr dezimierten Variante des Basis-Spiels daher und wurde dann nur noch um ein paar Lehrer-Tools erweitert. Öffentliche Minecraft-Server, wie auch unserer, sind mit der Education Edition nicht erreichbar, da es den „Multiplayer-Support“ so in der Art dort gar nicht gibt. Hier stehen uns auch keine technischen Tricks zur Verfügung um die Education Edition doch noch zu supporten und es ist nicht abzusehen, dass sich das in den kommenden Jahren so schnell ändert.
 
-!!! quote "Auszug auf einem technischen Artikel zur MC Education-Edition"
+!!! quote "Auszug auf einem technischen Artikel zur MC Education Edition"
 
     "A single multiplayer game can host a maximum of 40 players, but that is dependent on the specs of the host's device. Players can also connect across all supported platforms. Server-style multiplayer or a dedicated server is not possible at this time." - [Quelle](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game)
 
-!!! quote "Zitat eines aktiven Benutzers im Forum der MC Education-Edition"
+!!! quote "Zitat eines aktiven Benutzers im Forum der MC Education Edition"
 
     "Minecraft: Education Edition is not compatible with Java or Bedrock servers." - [Quelle](https://educommunity.minecraft.net/hc/en-us/community/posts/360076229212-MEE-with-Java-vanilla-Server)
