@@ -20,7 +20,7 @@ Abhängig von den zwei obigen Minecraft-Varianten - der Java und der Bedrock Edi
 
 !!! info "Hinweis zur Minecraft Bedrock Edition"
 
-    Zu beachten ist, dass unser Server-Netzwerk nativ (also technisch) immer noch auf Basis der Java Edition läuft und wir die Bedrock Edition nur durch weitere Server-Modifikationen der fleißigen "Minecraft Open-Source Community" supporten können. Es kann also bei der Verwendung der Bedrock Edition auf unserem Server technisch bedingt durchaus zu kleinere Grafik-Fehlern und Schwierigkeiten mit der Welten-Interaktion kommen. Zudem ist es auch mal möglich, dass unser Server für ein paar Stunden bis wenige Tage nicht nicht mit der Bedrock Edition erreichbar ist, da wir bei den automatischen Client-Updates der Bedrock Edition immer erst "nachrüsten" - also unsere Server-Modifikationen aktuallisieren - müssen.
+    Zu beachten ist, dass unser Server-Netzwerk nativ (also technisch) immer noch auf Basis der Java Edition läuft und wir die Bedrock Edition nur durch weitere Server-Modifikationen der fleißigen "Minecraft Open-Source Community" supporten können. Es kann also bei der Verwendung der Bedrock Edition auf unserem Server technisch bedingt durchaus zu kleinere Grafik-Fehlern und Schwierigkeiten mit der Welten-Interaktion kommen. Zudem ist es auch mal möglich, dass unser Server für ein paar Stunden bis wenige Tage nicht mit der Bedrock Edition erreichbar ist, da bei manchen Geräte-Typen (insbesondere dem PC) die Bedrock Edition automatisch auf die neuste verfügbare Version upgedatet wird, ohne dass wir auf unserem Server bereits die entsprechenden Aktualisierungen der Server-Modifikationen vorgenommen haben.
 
 [Anleitung für den Beitritt](serverjoin-bedrock.md){ .md-button }
 
