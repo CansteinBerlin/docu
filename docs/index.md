@@ -4,7 +4,7 @@
 
 !!! basic-info ""
 
-    Das Projekt ist ein Angebot des Bibellabors der **von Cansteinschen Bibelanstalt in Berlin e.V.** - einem unabhängigen, ehrenamtlichen Kirchen-Verein mit dem Ziel die Entstehung der Bibel zu vermitteln und Inhalte der Bibel verständlich und erlebbar zu machen. Auf unserem Minecraft-Server kann jeder mitspielen! Weitere Informationen über uns als Verein, findest du auch auf unserer Webseite.
+    Das Projekt ist ein Angebot des Bibellabors der **von Cansteinschen Bibelanstalt in Berlin e.V.** - einem unabhängigen, ehrenamtlichen Kirchen-Verein mit dem Ziel die Entstehung der Bibel zu vermitteln und Inhalte der Bibel verständlich und erlebbar zu machen. Auf unserem Minecraft-Server kann jeder mitspielen! Weitere Informationen über uns als Verein, findest du auf unserer Hauptseite [www.canstein-berlin.de](https://canstein-berlin.de) und hier in der Online-Doku.
 
 ![Projekt-Label: Bibellabor Minecraft](assets/Logo&Schild_Minecraft_200px.png)
 
