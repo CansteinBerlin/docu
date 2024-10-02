@@ -1,8 +1,8 @@
 # Weitere Regeln für Discord
 
 ## §1 Allgemeines
-1. Von dem Canstein-Team nicht genehmigte Bots werden ohne Vorwarnung gebannt. Die verantwortliche Betreuungsperson haftet für alles, was ihr Bot schreibt bzw. was er auf dem Canstein-Server tut.
-2. Inhalte, die gegen die Discord [Terms of Service](https://discord.com/terms) (kurz "ToS") oder Discord [Guidelines](https://discord.com/guidelines) verstoßen, sind verboten.
+1. Inhalte, die gegen die Discord [Terms of Service](https://discord.com/terms) (kurz "ToS") oder Discord [Guidelines](https://discord.com/guidelines) verstoßen, sind verboten.
+2. Von dem Canstein-Team nicht genehmigte Bots werden ohne Vorwarnung gebannt. Die verantwortliche Betreuungsperson haftet für alles, was ihr Bot schreibt bzw. was er auf dem Canstein-Server macht.
 
 ## §2 Talks
 1. Das Aufnehmen anderer User darf nur mit dem ausdrücklichen Einverständnis aller im Channel befindlichen Nutzer erfolgen.
