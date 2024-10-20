@@ -14,7 +14,7 @@
 
 * Server-Adresse: `canstein-berlin.de`
 * interne MC-Version: 1.21.1
-* erreichbar mit: 1.13.0 - 1.21.1
+* erreichbar mit: 1.17.0 - 1.21.1
 
 ### Minecraft Bedrock
 
