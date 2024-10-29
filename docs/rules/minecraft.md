@@ -21,16 +21,16 @@
 7. Fallen:
     1. Fallen müssen sich innerhalb einer Region befinden, bei welcher nach Einstellung durch das Supportteam bei Betreten auf die besondere Gefahr dieser Falle hingewiesen wird. Fallen, die durch das Versenden von `/tpa` bzw. `/tpahere` funktionieren, sind verboten.
 8. Role-Play:
-   1. Auf dem Survival-Server (normaler Modus, nicht SkyBlock) gibt es ein optionales Role-Play System, dass für die Teilnehmer einer "Allianz" (Guilde) innerhalb einer Allianz-Region kompetitive Spielweisen erlaubt und Ausnahmen für die oben genannten Regeln gewährt.
-   2. Um am Role-Play teilzunehmen, muss man Teil einer registrierten Allianz sein.
-   3. Alle registrierten Allianzen hängen am Spawn des Survival-Servers mit einem direkten Support-Ansprechpartner und der aktuellen Mitglieder-Liste aus.
-   4. Beantragung einer Allianz:
-      1. Eine Allianz muss mindestens zwei Mitglieder haben.
-      2. Zu Beginn ist eine Beantragung der Allianz beim Team in Form eines Support-Tickets mit Allianzname, Anführer / Leitung und Anzahl der Mitglieder notwendig.
-   5. Allianz-Region:
-      1. Die Allianz-Region ist eine vom Support angelegte Region, die zur Allianz gehört. Nur in dieser ist (kompetitives) Role-Play erlaubt.
-      2. Es muss beim Beitritt der Region darauf hingewiesen werden, dass dies eine Allianz-Region ist (meist mit der "greeting" Flag).
-   6. Ziel des Role-Play Systems ist der langfristige Spielspaß aller Parteien.
+    1. Auf dem Survival-Server (normaler Modus, nicht SkyBlock) gibt es ein optionales Role-Play System, dass für die Teilnehmer einer "Allianz" (Guilde) innerhalb einer Allianz-Region kompetitive Spielweisen erlaubt und Ausnahmen für die oben genannten Regeln gewährt.
+    2. Um am Role-Play teilzunehmen, muss man Teil einer registrierten Allianz sein.
+    3. Alle registrierten Allianzen hängen am Spawn des Survival-Servers mit einem direkten Support-Ansprechpartner und der aktuellen Mitglieder-Liste aus.
+    4. Beantragung einer Allianz:
+        1. Eine Allianz muss mindestens zwei Mitglieder haben.
+        2. Zu Beginn ist eine Beantragung der Allianz beim Team in Form eines Support-Tickets mit Allianzname, Anführer / Leitung und Anzahl der Mitglieder notwendig.
+    5. Allianz-Region:
+        1. Die Allianz-Region ist eine vom Support angelegte Region, die zur Allianz gehört. Nur in dieser ist (kompetitives) Role-Play erlaubt.
+        2. Es muss beim Beitritt der Region darauf hingewiesen werden, dass dies eine Allianz-Region ist (meist mit der "greeting" Flag).
+    6. Ziel des Role-Play Systems ist der langfristige Spielspaß aller Parteien.
 
 ## §2 Kreativ
 1. Auf dem Kreativ-Server ist zuerst der*die Besitzer*in einer Parzelle für den Inhalt verantwortlich. Regelwidrige Bauten der Mitbenutzer*innen sind zu entfernen und die Verantwortlichen zur Not dem Team zu melden.
