@@ -20,7 +20,7 @@
     1. Massenhaltung von Tieren und leistungsfressende Schaltungen sollten vermieden werden.
 7. Fallen:
     1. Fallen müssen sich innerhalb einer Region befinden, bei welcher nach Einstellung durch das Supportteam bei Betreten auf die besondere Gefahr dieser Falle hingewiesen wird. Fallen, die durch das Versenden von `/tpa` bzw. `/tpahere` funktionieren, sind verboten.
-8. Rule-Play:
+8. Role-Play:
    1. Auf dem Survival-Server (normaler Modus, nicht SkyBlock) gibt es ein optionales Role-Play System, dass für die Teilnehmer einer "Allianz" (Guilde) innerhalb einer Allianz-Region kompetitive Spielweisen erlaubt und Ausnahmen für die oben genannten Regeln gewährt.
    2. Um am Role-Play teilzunehmen, muss man Teil einer registrierten Allianz sein.
    3. Alle registrierten Allianzen hängen am Spawn des Survival-Servers mit einem direkten Support-Ansprechpartner und der aktuellen Mitglieder-Liste aus.
