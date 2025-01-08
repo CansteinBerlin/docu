@@ -28,7 +28,7 @@
 ## §4 Accounts
 1. Du bist für deinen Account zuständig. Falls beispielsweise angeblich ein Freund mit deinem Account etwas gemacht hat, musst du trotzdem dafür gerade stehen.
 2. Jegliche Art der Vortäuschung eines Accounts oder einer Person, sowie jegliche Art der Vortäuschung eines Identitätsdiebstahls ist verboten. Dies gilt insbesondere für Teammitglieder.
-3. Dein Nickname und ggf. Avatar müssen sich an den Verhaltensregeln orientieren und dürfen u.a. nicht beleidigen & diskriminieren.
+3. Dein Nickname und ggf. Avatar müssen sich an den Verhaltensregeln orientieren und dürfen u.a. nicht beleidigen oder diskriminieren.
 
 ## §5 Aktualisierung der Regeln
 1. Wir behalten uns vor, jederzeit und ohne Vorankündigung Änderungen an diesen Regeln vorzunehmen.
