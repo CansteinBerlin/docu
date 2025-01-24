@@ -1,6 +1,6 @@
 # Server-Übersicht
 
-Hier siehst du die Server-Struktur unseres Server-Netzwerks. "Server-Netzwerk" deswegen, weil es mehrere Unter-Server gibt, auf denen die unterschiedlichen Welten verteilt sind. Canstein-Berlin ist mit den Jahren immer komplexer geworden. Umso wichtiger ist die Server-Struktur, mit denen wir die konzeptionell sehr unterschiedlichen Welten separieren können.
+Unser Minecraft [Server-Netzwerk](../basics/server.md) **Canstein-Berlin** ist mit den Jahren immer weiter gewachsen und folglich auch komplexer worden. Um alle Bereiche der verschiedenen Angebote und Projekte zu strukturieren, sind unsere Welten in verschiedenen themen-bezogenen Unter-Server aufgeteilt.
 
 ![Server-Struktur](./images/Server-Struktur.png)
 
