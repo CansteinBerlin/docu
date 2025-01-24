@@ -35,6 +35,10 @@ Aktuelle Mini-Games sind:
 
 Auf dem Event-Server finden die Gottesdienste statt. Es handelt sich dabei um Krippenspiel-ähnliche immersive Durchläufe vorbereiteter Bibelgeschichten. Moderiert wird das ganze von der wissenschaftlichen Leiterin des Bibellabors _Mareike Witt_ und unserem Pfarrer _Sascha Gebauer_. Mit festlicher Begrüßung, symbolischen Interaktionen, Fürbitten oder dem abschließenden Vaterunser, wird das ganze Event zu einem vollwertigen Gottesdienst.
 
+**Weiterführende Links:**
+- [Bildergallerie:](https://canstein-berlin.de/wp-content/Pressebilder/?dir=pictures%2FMinecraft%2FGottesdienste)
+- zusammenfassender Beitrag über die [Minecraft Gottesdienste](https://canstein-berlin.de/minecraft-im-bibellabor) von Pfr. Dr. Sascha Gebauer
+
 ## Kreativ-Server
 
 ![Kreativ-Server](./images/server/Kreativ.png)
@@ -42,6 +46,11 @@ Auf dem Event-Server finden die Gottesdienste statt. Es handelt sich dabei um Kr
 **Befehl:** `/creative` (kurz :`/cr`)
 
 Auf dem Kreativ-Server sind eine Vielzahl von Welten verteilt, die mit unterschiedlichen Projekten zusammenhängen. Es gibt Dauer-Angebote für alle Spieler des Servers, wiederkehrende Bau-Events und einmalige Veranstaltungen für einen gewissen Zeitraum. Manche Welten werden für ein bestimmtes Projekt verwendet, andere immer wieder weiter genutzt. Gespielt und gebaut wird hier hauptsächlich im **Kreativ-Modus**.
+
+**Weiterführende Links:**
+- Beispiel-Projekt [Bau-Wettbewerb "Mine-Klima"](https://mine-klima.de) (2023 und 2024)
+- Beispiel-Projekt [Bau-Challenge "Gestalte deinen neuen Lieblingsspielplatz an der Elbe"](https://ev-akademie-wittenberg.de/minecraft-laga) (2024)
+- Beispiel-Projekt [Bau-Wettbewerb "Babelbau"](https://www.babel-minecraft.de) (2020)
 
 ## Survival-Server
 
@@ -51,7 +60,8 @@ Auf dem Kreativ-Server sind eine Vielzahl von Welten verteilt, die mit unterschi
 
 Auf dem Survival-Server spielt unsere Minecraft-Community nach Lust und Laune Minecraft im **Überlebens-Modus**. Der Server wird nicht für didaktische Zwecke verwendet, bleibt also recht unabhängig und wird von unseren Supportern moderiert.
 
-Weitere Infos: [hier](survival-server.md)
+**Weiterführende Links:**
+- Doku-Artikel [Survival-Server](survival-server.md)
 
 ## Kooperation-Server
 
@@ -62,7 +72,7 @@ Weitere Infos: [hier](survival-server.md)
 Auf dem Kooperation-Server befinden sich die Projekt- und Spielwelten unser Kooperations-Partner. Hier schaffen wir den Raum für andere pädagogische, didaktische oder kirchliche Einrichtungen u.ä., damit diese sich mit ihrem eigenen Team und unter ihrem eigenen Namen mit Minecraft frei entfalten können, ohne dass sie ihren eigenen Server benötigen.
 
 Aktuell können die Welten der folgenden Partnerschaften erreicht werden:
-- Ev. Kirchengemeinde Frankfurt (Oder) / Lebus: `/warp ffo-spawn`
 - Ev. Kirchenkreis Gladbach-Neuss und Umgebung: `/warp glne-spawn`
 
-Weitere Informationen zu unseren Kooperations-Angeboten sind in der Rubrik [Kooperation](../cooperation/index.md) beschrieben.
+**Weiterführende Links:**
+- Doku-Artikel [Kooperations-Angebote](../cooperation/index.md)
