@@ -53,6 +53,7 @@ Auf dem Kreativ-Server sind eine Vielzahl von Welten verteilt, die mit unterschi
 - Beispiel-Projekt [Bau-Wettbewerb "Mine-Klima"](https://mine-klima.de) (2023 und 2024)
 - Beispiel-Projekt [Bau-Challenge "Gestalte deinen neuen Lieblingsspielplatz an der Elbe"](https://ev-akademie-wittenberg.de/minecraft-laga) (2024)
 - Beispiel-Projekt [Bau-Wettbewerb "Babelbau"](https://www.babel-minecraft.de) (2020)
+- Doku-Artikel [Kooperations-Angebote](../cooperation/index.md)
 
 ## Survival-Server
 
