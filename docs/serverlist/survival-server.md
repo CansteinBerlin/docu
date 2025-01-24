@@ -12,10 +12,10 @@ Auch auf dem Survival-Server finden (meist im Freebuild-Bereich) ab und zu klein
 
 - Bau-Welten: `/warp spawn`
 - Farm-Welten:
-  * Oberwelt: `/warp farm`
-  * Nether: `/warp nehterfarm`
-  * automatische Sand-Farm: `/warp sandfarm`
-  * automatische Kies-Farm: `/warp gravelfarm`
+    * Oberwelt: `/warp farm`
+    * Nether: `/warp nehterfarm`
+    * automatische Sand-Farm: `/warp sandfarm`
+    * automatische Kies-Farm: `/warp gravelfarm`
 
 Hier wird nach dem üblichen "Freebuild" Konzept gespielt: Jeder kann also grundsätzlich überall bauen, wenn die Region noch nicht belegt ist. Durch gesicherte Regionen haben sich mit der Zeit auch ganze Dörfer und Gruppierungen gebildet, in denen die Spieler in ihrer "Gilde" zusammenbauen und zusammenspielen.
 
