@@ -37,7 +37,7 @@ Auf dem Event-Server finden die Gottesdienste statt. Es handelt sich dabei um Kr
 
 **Weiterführende Links:**
 
-- [Bildergallerie:](https://canstein-berlin.de/wp-content/Pressebilder/?dir=pictures%2FMinecraft%2FGottesdienste)
+- [Bildergallerie](https://canstein-berlin.de/wp-content/Pressebilder/?dir=pictures%2FMinecraft%2FGottesdienste)
 - zusammenfassender Beitrag über die [Minecraft Gottesdienste](https://canstein-berlin.de/minecraft-im-bibellabor) von Pfr. Dr. Sascha Gebauer
 
 ## Kreativ-Server
