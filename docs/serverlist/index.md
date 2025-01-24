@@ -36,6 +36,7 @@ Aktuelle Mini-Games sind:
 Auf dem Event-Server finden die Gottesdienste statt. Es handelt sich dabei um Krippenspiel-ähnliche immersive Durchläufe vorbereiteter Bibelgeschichten. Moderiert wird das ganze von der wissenschaftlichen Leiterin des Bibellabors _Mareike Witt_ und unserem Pfarrer _Sascha Gebauer_. Mit festlicher Begrüßung, symbolischen Interaktionen, Fürbitten oder dem abschließenden Vaterunser, wird das ganze Event zu einem vollwertigen Gottesdienst.
 
 **Weiterführende Links:**
+
 - [Bildergallerie:](https://canstein-berlin.de/wp-content/Pressebilder/?dir=pictures%2FMinecraft%2FGottesdienste)
 - zusammenfassender Beitrag über die [Minecraft Gottesdienste](https://canstein-berlin.de/minecraft-im-bibellabor) von Pfr. Dr. Sascha Gebauer
 
@@ -48,6 +49,7 @@ Auf dem Event-Server finden die Gottesdienste statt. Es handelt sich dabei um Kr
 Auf dem Kreativ-Server sind eine Vielzahl von Welten verteilt, die mit unterschiedlichen Projekten zusammenhängen. Es gibt Dauer-Angebote für alle Spieler des Servers, wiederkehrende Bau-Events und einmalige Veranstaltungen für einen gewissen Zeitraum. Manche Welten werden für ein bestimmtes Projekt verwendet, andere immer wieder weiter genutzt. Gespielt und gebaut wird hier hauptsächlich im **Kreativ-Modus**.
 
 **Weiterführende Links:**
+
 - Beispiel-Projekt [Bau-Wettbewerb "Mine-Klima"](https://mine-klima.de) (2023 und 2024)
 - Beispiel-Projekt [Bau-Challenge "Gestalte deinen neuen Lieblingsspielplatz an der Elbe"](https://ev-akademie-wittenberg.de/minecraft-laga) (2024)
 - Beispiel-Projekt [Bau-Wettbewerb "Babelbau"](https://www.babel-minecraft.de) (2020)
@@ -61,6 +63,7 @@ Auf dem Kreativ-Server sind eine Vielzahl von Welten verteilt, die mit unterschi
 Auf dem Survival-Server spielt unsere Minecraft-Community nach Lust und Laune Minecraft im **Überlebens-Modus**. Der Server wird nicht für didaktische Zwecke verwendet, bleibt also recht unabhängig und wird von unseren Supportern moderiert.
 
 **Weiterführende Links:**
+
 - Doku-Artikel [Survival-Server](survival-server.md)
 
 ## Kooperation-Server
@@ -75,4 +78,5 @@ Aktuell können die Welten der folgenden Partnerschaften erreicht werden:
 - Ev. Kirchenkreis Gladbach-Neuss und Umgebung: `/warp glne-spawn`
 
 **Weiterführende Links:**
+
 - Doku-Artikel [Kooperations-Angebote](../cooperation/index.md)
