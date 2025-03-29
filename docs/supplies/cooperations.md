@@ -1,0 +1,9 @@
+# Kooperation und Freiraum für eigene Bildungs-Angebote
+
+Sie möchten selber aktiv ein Minecraft-Projekt gestalten? Dann können wir Ihnen die passende Basis bieten, damit Sie nicht bei _Null_ anfangen müssen. Wir bieten bei uns auf dem Server-Netzwerk auf dem [**Kooperation-Server**](../serverlist/index.md#kooperation-server) Platz für Ihre Projekte und ihr Team.
+
+## Warum bei uns?
+
+Das Einrichten eines Minecraft-Servers braucht viel Zeit, Wissen und Geld. **Zeit** zum Entwickeln des Angebots, klar. Aber auch Zeit zum Einrichten und Austesten aller notwendigen Standard-Plugins, IT-Systeme und Kommunikationswege. Zeit zum Aufbauen eines Server-Teams mit verteilten Aufgaben oder Zeit zum Bauen einladender Start-Regionen. Es brauch **Wissen** über die Standards von Minecraft-Servern, Grundlagen des Game-Designs oder Erfahrungen im Bereich der Informatik, sowie Wissen über Datenschutz und Sicherheitstechniken. Und es kostet **Geld** einen eigenen Server zu mieten und entsprechende Arbeitsstunden in deren Entwicklung zu investieren. Einen Großteil davon können wir Ihnen ersparen, ohne dass Ihre Projekt-Idee dadurch negativ beeinflusst wird. **Die Basis eines jeden Game-Servers steht bei uns schon bereit.**
+
+Wir bieten Ihnen die Einrichtung der gewünschten Welten, Regionen, Ränge oder Plugins. Das Projekt soll nach Ihren Anforderungen bei uns vorbereitet werden und von Ihnen gestaltet werden können. Am Ende läuft es für eure Spieler und für die bestehenden Spieler unseres Netzwerks **unter eurem Namen und eurem Logo**. Lassen Sie uns zusammen mit Ihren Möglichkeiten das Beste unserer Ressourcen nutzen und eine Kooperation starten!
