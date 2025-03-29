@@ -1,6 +1,6 @@
 # Beitritt
 
-Minecraft ist seit über einem Jahrzehnt eines der erfolgreichsten Videospiele weltweit. Das Spiel wurde ursprünglich nur für die Anwendung am Computer entwickelt und in der Programmiersprache [Java](https://de.wikipedia.org/wiki/Java-Technologie) entwickelt. Daher wird dies heute als die **"Java Edition"** betitelt. Spätestens nach dem Kauf des Entwickler-Studios [Mojang AB](https://minecraft.wiki/w/Mojang_Studios) durch Microsoft wurde viel dafür getan, dass Minecraft in aller Welt und in allen üblichen Spiele-Konsolen (Playstation, XBOX, Smartphone etc.) gespielt werden können. Anfangs wurde dazu Minecraft für jedes einzelne Gerät quasi neugeschrieben. Heute bündelt die **"Bedrock Edition"** den gesamten Support aller Geräte, bei denen es technisch bedingt nicht mit der Java Edition laufen kann und bei denen auch meist eine alternative (Konsolen-)Steuerung notwendig ist.
+Minecraft ist seit über einem Jahrzehnt eines der erfolgreichsten Videospiele weltweit. Das Spiel wurde ursprünglich nur für die Anwendung am Computer in der Programmiersprache [Java](https://de.wikipedia.org/wiki/Java-Technologie) entwickelt. Daher wird dies heute als die **"Java Edition"** betitelt. Spätestens nach dem Kauf des Entwickler-Studios [Mojang AB](https://minecraft.wiki/w/Mojang_Studios) durch Microsoft wurde viel dafür getan, dass Minecraft in aller Welt und in allen üblichen Spiele-Konsolen (Playstation, XBOX, Smartphone etc.) gespielt werden kann. Anfangs wurde dazu Minecraft für jedes einzelne Gerät quasi neugeschrieben. Heute bündelt die **"Bedrock Edition"** den gesamten Support aller Geräte, bei denen es technisch bedingt nicht mit der Java Edition laufen kann und bei denen auch meist eine alternative (Konsolen-)Steuerung notwendig ist.
 
 !!! warn "Hinweis zur Minecraft Education Edition"
 
@@ -14,7 +14,7 @@ Abhängig von den zwei obigen Minecraft-Varianten - der Java und der Bedrock Edi
 
 **Geräte:**
 
-- Windows PC (via Java)
+- PC mit Windows, Linux oder macOS (_Java JRE_ muss nicht installiert sein)
 
 ## Minecraft Bedrock Edition
 
@@ -27,9 +27,9 @@ Abhängig von den zwei obigen Minecraft-Varianten - der Java und der Bedrock Edi
 **Geräte:**
 
 - Windows PC
-- Switch (Konsole)
-- PlayStation 4 (Konsole)
 - Xbox One (Konsole)
+- PlayStation 4 (Konsole)
+- Switch (Konsole)
 - Android (Smartphone)
 - …
 

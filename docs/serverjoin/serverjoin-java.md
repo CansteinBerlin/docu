@@ -32,6 +32,10 @@ In der "Version" wählst du die neuste Voll-Version aus, die es gerade gibt. Ver
 
     Wenn du in das Eingabefeld "release" eingibst, werden dir alle verfügbaren Vollversionen angezeigt, die der Minecraft-Launcher kennt.
 
+!!! info "Ändern der Java Umgebung (nicht notwendig)"
+
+    Die Java Edition läuft - wie der Name schon sagt - mit _Java_. Genauer genommen mit der "Java JRE" (= Java Runtime Environment, also übersetzt die "Java Laufzeitumgebung"). Die Java JRE kann man ganz normal auf dem Computer installieren. **Für Minecraft muss man dies aber nicht, da der Minecraft Launcher bereits von Haus aus die richtigen Java Packete mitbringt und lädt.** Wenn Minecraft trotzdem die auf dem Computer manuell installierte Java Umgebung verwenden soll, muss hier unter "Mehr Optionen" die "Java-Programmdatei" eingestellt werden. Dieser zeigt dann auf den Installations-Pfad der Java JRE. (Die Installations-Datei endet meist mit `…/java.exe` und sollte die richtige Java-Version sein.) Neben der _Java JRE_ gibt es noch die "Java JDK" (= Java Development Kit). Diese beinhaltet zusätzlich zur integrierten _Java JRE_ die Java Entwicklungs-Tools (Compiler, Debugger, Dokumentationswerkzeug, …) und ist hauptsächlich für Java-Programmierer interessant. Sollte also die _Java JDK_ auf dem Computer installiet sein, kann auch diese hier angegeben werden.
+
 Die anderen Eingabefelder kannst du ignorieren. Klicke abschließend rechts unten auf "Erstellen".
 
 #### Schritt 4
