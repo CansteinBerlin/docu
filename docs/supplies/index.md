@@ -29,7 +29,7 @@ Mit unserem Minecraft-Server, unserem technischen Setup und unseren Erfahrungen 
 
 - Angebote bei Ihnen vor Ort (z.B. Minecraft Bibelbau Workshops zu biblischen Themen, …)
 - Angebote bei uns im Bibellabor
-- reine Online-Veranstaltungen (Vgl. (Zocken mit dem Bischof)[https://bistummainz.de/jugend/thema/jugendprojekt/])
+- reine Online-Veranstaltungen (Vgl. [Zocken mit dem Bischof](https://bistummainz.de/jugend/thema/jugendprojekt/))
 - größere Projekte mit Online- und Offline Anteil (z.B. Minecraft Gottesdienste auf dem Server mit Einbindung der Live-Zuschauer in der Kirche)
 - Arbeitsmittel und Medien (Arbeitsblätter, Filme in 2D oder für VR, Bilder, Minecraft-Szenen, …)
 - …
@@ -40,7 +40,7 @@ Mit unserem Minecraft-Server, unserem technischen Setup und unseren Erfahrungen 
 - Pädagogische Jugendarbeit
 - experimentelle Projekte (z.B. technische Experimente, Machbarkeits-Studien, innovative Projekte, Auseinandersetzen mit neuen medialen Formen, …)
 - Kunst-Formen (z.B. biblische Darstellungen in Videospielen, …)
-- Informative Angebote zu modernen Themen (z.B. (Klimawandel)[https://mine-klima.de/], Kirchennutzung, …)
+- Informative Angebote zu modernen Themen (z.B. [Klimawandel](https://mine-klima.de), Kirchennutzung, …)
 - …
 
 ### Zielgruppe

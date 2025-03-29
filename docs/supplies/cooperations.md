@@ -1,6 +1,6 @@
 # Kooperation und Freiraum für eigene Bildungs-Angebote
 
-Sie möchten selber aktiv ein Minecraft-Projekt gestalten? Dann können wir Ihnen die passende Basis bieten, damit Sie nicht bei _Null_ anfangen müssen. Wir bieten bei uns auf dem Server-Netzwerk auf dem [**Kooperation-Server**](../serverlist/index.md#kooperation-server) Platz für Ihre Projekte und ihr Team.
+Sie möchten selber aktiv ein Minecraft-Projekt gestalten? Dann können wir Ihnen die passende Basis bieten, damit Sie nicht bei _Null_ anfangen müssen. Wir bieten bei uns auf dem Server-Netzwerk auf dem [Kooperation-Server](../serverlist/index.md#kooperation-server) **Platz für Ihre Projekte und ihr Team**.
 
 ## Warum bei uns?
 
