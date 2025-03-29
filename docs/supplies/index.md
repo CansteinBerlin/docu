@@ -16,7 +16,7 @@ Wenn Sie mit der Idee spielen für Ihre Kirchengemeinde, Arbeitsgemeinschaft, Sc
 
 Mit unserem Minecraft-Server, unserem technischen Setup und unseren Erfahrungen können wir auf die verschiedensten Arten von Anfragen, Wünsche und Bedingungen eingehen. Im Folgenden wollen wir kurz auf die wichtigsten Aspekte unserer Angebote eingehen:
 
-### Zeit
+### Dauer des Angebots
 
 - Beratungs-Gespräche
 - einmaliges oder regelmäßiges Angebot am Nachmittag
@@ -25,7 +25,7 @@ Mit unserem Minecraft-Server, unserem technischen Setup und unseren Erfahrungen 
 - eine Kooperation für ein ganzes Jahr
 - …
 
-### Analog, Digital und Hybride
+### Analoge, Digitale und Hybride Formen
 
 - Angebote bei Ihnen vor Ort (z.B. Minecraft Bibelbau Workshops zu biblischen Themen, …)
 - Angebote bei uns im Bibellabor
@@ -38,7 +38,7 @@ Mit unserem Minecraft-Server, unserem technischen Setup und unseren Erfahrungen 
 
 - Theologische Didaktik
 - Pädagogische Jugendarbeit
-- experimentelle Projekte (z.B. technische Experimente, Machbarkeits-Studien, innovative Projekte, Auseinandersetzen mit neuen medialen Formen, …)
+- experimentelle Projekte (z.B. technische Experimente, Machbarkeitsstudien, innovative Projekte, Auseinandersetzen mit neuen medialen Formen, …)
 - Kunst-Formen (z.B. biblische Darstellungen in Videospielen, …)
 - Informative Angebote zu modernen Themen (z.B. [Klimawandel](https://mine-klima.de), Kirchennutzung, …)
 - …
@@ -68,4 +68,4 @@ Mit unserem Minecraft-Server, unserem technischen Setup und unseren Erfahrungen 
 
 ### Finanzielles Budget
 
-Die **von Cansteinsche Bibelanstalt e.V.** finanziert sich nur dich Spenden und Aufwandsentschädigungen. Abhängig von Ihrem finanziellen Budget und der potenziellen Wieder-Verwendung der Ergebnisse können wir das Angebot inkl. den Ressourcen (Zeit, Personal, materieller Aufwand, …) und vorbereitende Investitionen entsprechend skalieren.
+Die _von Cansteinsche Bibelanstalt in Berlin e.V._ finanziert sich nur dich Spenden und Aufwandsentschädigungen. Abhängig von Ihrem finanziellen Budget und der potenziellen Wieder-Verwendung der Ergebnisse können wir das Angebot inklusive den Ressourcen (Zeit, Personal, materieller Aufwand, …) und vorbereitende Investitionen entsprechend skalieren.
