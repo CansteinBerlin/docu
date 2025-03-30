@@ -135,6 +135,6 @@ nav:
     - serverlist/index.md
     - Survival-Server: serverlist/survival-server.md
   - Angebote und Kooperationen:
-    - Allgemeine Angebote: supplies/index.md
+    - supplies/index.md
     - Kooperationen: supplies/cooperations.md
     - Virtual Reality: supplies/vr-experience.md
