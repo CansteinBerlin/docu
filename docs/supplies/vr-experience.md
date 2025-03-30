@@ -1,12 +1,12 @@
-# Virtuelle Realität im Relisions-Unterricht
+# Virtuelle Realität im Praxis-Test
 
-Seit Anfang 2023 sind wir als Verein im Besitz von insgesamt 11x VR-Brillen. Seitdem sind die VR-Brillen ein experimenteller und unterhaltender Bestandteil unseres Setups. Wir testen und validieren die Benutzer-Erfahrung und verschiedene Einsatzgebiete der VR-Brillen in der Praxis. Es gibt Stärken und es gibt Schwächen bei den aktuellen VR-Brillen und es wird sich zukünftig sicher noch viel in der Technik der VR-Geräte tun.
+Seit Anfang 2023 sind wir als Verein im Besitz von insgesamt 11 VR-Brillen. Seitdem testen wir den Einsatz dieser neuen Technik in der Praxis aus, schulen uns selber und stehen als beratende Ansprechpartner für den VR-Einsatz im Religions-Unterricht und anderen Einsatz-Gebieten zur Verfügung. Wir validieren die Benutzer-Erfahrung, die technischen Bedingungen, die Praxis-Tauglichkeit und die Software. Es gibt Stärken und Schwächen bei den aktuellen VR-Brillen und es wird sich zukünftig sicher noch viel in diesem Bereich weiterentwickeln.
 
 ![VR-Test](images/vr/Foto_160552_VR-Test.jpg)
 
 ## Unsere Geräte
 
-Die VR-Geräte unterschiedlicher Marken unterscheiden sich sehr voneinander, da jede Marke und jede Brille mit ihrer eigenen Infrastruktur, App-Auswahl / App-Support und technischen Eigenschaften daher kommen. Aktuell sind wir im Besitz von 5x "Pico 4" und 6x "Meta Quest 2". Durch die zwei verschiedenen Geräte-Typen sind wir flexibler und können abhängig vom Einsatzgebiet das passende Gerät verwenden.
+Die VR-Geräte unterscheiden sich von Marke zu Marke und von Modell zu Modell. Jede Marke und jedes Modell bietet ihre eigene Infrastruktur an, hat ihre eigene App-Bibliothek, spezielle technische und physische Eigenschaften und unterscheidet sich auch in der Kompatibilität zu Dritt-Anbieter Software. Aktuell sind wir im Besitz von 5x "Pico 4" und 6x "Meta Quest 2". Durch die zwei verschiedenen Geräte-Typen sind wir flexibler und können abhängig vom Einsatzgebiet das passende Gerät verwenden.
 
 ## Technische Möglichkeiten (Mediale Formen)
 
