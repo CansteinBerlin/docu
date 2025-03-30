@@ -1,6 +1,8 @@
 # Virtuelle Realität im Praxis-Test
 
-Seit Anfang 2023 sind wir als Verein im Besitz von insgesamt 11 VR-Brillen. Seitdem testen wir den Einsatz dieser neuen Technik in der Praxis aus, schulen uns selber und stehen als beratende Ansprechpartner für den VR-Einsatz im Religions-Unterricht und anderen Einsatz-Gebieten zur Verfügung. Wir validieren die Benutzer-Erfahrung, die technischen Bedingungen, die Praxis-Tauglichkeit und die Software. Es gibt Stärken und Schwächen bei den aktuellen VR-Brillen und es wird sich zukünftig sicher noch viel in diesem Bereich weiterentwickeln.
+"Virtual Reality" (übersetzt "Virtuelle Realität") ist eines der großen Themen der Unterhaltungs-Industrie der letzten 20 Jahre. Und auch in der Produktion und im Schulwesen finden sich seither nützliche Anwendungsgebiete. Es geht darum, eine tiefere und "realer" wirkende Erfahrung von computer-generierten Inhalten zu erzeugen. Während die [Definition](https://wirtschaftslexikon.gabler.de/definition/virtuelle-realitaet-54243) von _Virtueller Realität_ verschiedene Techniken umfasst, meinen wir mit "VR" meist die Anwendung von VR-Brillen. Hier schaut man mit jedem Auge auf einen Bildschirm direkt innerhalb der Brille, während Ton über beidseitige Lautsprecher ausgegeben werden. Mit leichten Steuer-Elementen (den VR Controllern) in der Hand ist die Ausrüstung für das VR-Erlebnis komplett.
+
+Seit Anfang 2023 sind wir als Verein im Besitz von insgesamt 11x VR-Brillen. Seitdem testen wir den Einsatz dieser neuen Technik in der Praxis aus, schulen uns selber und stehen als beratende Ansprechpartner für den VR-Einsatz im Religions-Unterricht und anderen Einsatz-Gebieten zur Verfügung. Wir validieren die Benutzer-Erfahrung, die technischen Bedingungen, die Praxis-Tauglichkeit und die Software. Es gibt Stärken und Schwächen bei den aktuellen VR-Brillen und es wird sich zukünftig sicher noch viel in diesem Bereich weiterentwickeln.
 
 ![VR-Test](images/vr/Foto_160552_VR-Test.jpg)
 
@@ -14,17 +16,17 @@ Die VR-Geräte unterscheiden sich von Marke zu Marke und von Modell zu Modell. J
 
 Ein großer Bestandteil des Bibellabors ist unser _Minecraft_ Angebot. So verwundert es auch sicher wenig, dass wir die VR-Anwendung speziell im Videospiel Minecraft testen.
 
-Auf den VR-Geräten haben wir **Minecraft für VR** anhand von Dritt-Anbieter Software installiert und eingerichtet. Jede Minecraft-Anwendung läuft dabei natürlich mit einem eigenen Minecraft-Account. Wir können also mit den Brillen auf unseren Minecraft-Server laufen (zurzeit `CansteinVR1` bis `CansteinVR9`) und die gebauten Welten und Szenen in der VR-Perspektive betrachten und erleben lassen.
+Auf den VR-Geräten haben wir **Minecraft für VR** anhand von Dritt-Anbieter Software installiert und eingerichtet. Auf jedem VR-Gerät ist ein eigener Minecraft-Account eingerichtet (zurzeit `CansteinVR1` bis `CansteinVR9`), mit dem wir auf unseren Minecraft-Server kommen und die gebauten Welten und Szenen in der VR-Perspektive betrachten und erleben lassen können.
 
 ### Andere Spiele
 
-Neben [Beat Saber](https://beatsaber.com) als Unterhaltungs-Programm für Jugend-Freizeiten gab es auch bereits Kooperations-Projekte, in denen wir unsere VR-Brillen für Veranstaltungen ausgeliehen haben. So wurde in ["Virtual Jerusalem"](https://www.bibelhaus-frankfurt.de/de/ausstellungen/virtual-jerusalem) vom _Bibelhaus Erlebnis Museum in Frankfurt_ ein neues VR-Spiel angeboten, in denen der Zuschauer durch einen digitalen Nachbau von Jerusalem gehen und antike Münzen finden muss. Die VR-Brillen dafür kamen untere anderem von uns.
+Neben dem bekannten Videospiel ["Beat Saber"](https://beatsaber.com) als Unterhaltungs-Programm für Jugend-Freizeiten gab es auch bereits Kooperations-Projekte, in denen wir unsere VR-Brillen für Veranstaltungen ausgeliehen haben. So wurde in ["Virtual Jerusalem"](https://www.bibelhaus-frankfurt.de/de/ausstellungen/virtual-jerusalem) vom _Bibelhaus Erlebnis Museum in Frankfurt_ ein neues VR-Spiel angeboten, in denen der Zuschauer durch einen digitalen Nachbau von Jerusalem gehen und antike Münzen finden musste. Die VR-Brillen dafür kamen untere anderem von uns.
 
 ### 360° Filme und 360° Bilder
 
-Alternativ besteht auch die Möglichkeit 360° Filme über YouTube oder eigene Dateien abspielen zu lassen. Oder 360° Bilder zu erzeugen.
+Alternativ besteht auch die Möglichkeit 360° Filme über YouTube oder eigene Dateien abspielen zu lassen. Auch 360° Bilder können sich damit angesehen werden.
 
-Für **Minecraft** nutzen wir dafür eine spezielle Aufnahme-Software ([ReplayMod](https://www.replaymod.com)) und können damit auch ohne Internet-Verbindung themen-bezogene Minecraft-Kulissen von unserem Minecraft-Netzwerk in VR betrachten lassen.
+Auch für Ingame-Aufnahmen in **Minecraft** gibt es spezielle Aufnahme-Software, mit denen Videos für die VR-Darstellung gerendert werden können. Mit diesen Videos lassen sich auch ohne Internet-Verbindung themen-bezogene Minecraft-Kulissen von unserem Minecraft-Netzwerk in VR betrachten.
 
 ## Der Reiz von VR-Spielen am Beispiel von Minecraft
 
