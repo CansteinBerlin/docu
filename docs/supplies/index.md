@@ -12,7 +12,7 @@ Wenn Sie mit der Idee spielen für Ihre Kirchengemeinde, Arbeitsgemeinschaft, Sc
 
 ![Beispiele bisheriger Kooperationen](./images/Kooperation-Banner.png)
 
-## Arten von Angeboten und Kooperationen
+## Vielfalt unserer Minecraft-Angebote
 
 Mit unserem Minecraft-Server, unserem technischen Setup und unseren Erfahrungen können wir auf die verschiedensten Arten von Anfragen, Wünsche und Bedingungen eingehen. Im Folgenden wollen wir kurz auf die wichtigsten Aspekte unserer Angebote eingehen:
 
