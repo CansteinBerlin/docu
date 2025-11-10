@@ -46,7 +46,7 @@
     1. Freecam: Die Freecam darf nicht eine Erweiterung der Person sein. Die Freecam darf z.B. nicht Knöpfe, Türen etc. verwenden können. Ebenfalls sind Freecams mit X-Ray untersagt.
 3. Frage im Zweifel ein Teammitglied.
 
-## $4 Datenschutz
+## §4 Datenschutz
 1. Es gilt unsere [Datenschutzerklärung](https://canstein-berlin.de/datenschutzerklaerung). Dort sind alle Details, welche Daten wir erfassen, speichern und verwenden, erläutert.
 2. Auf den Minecraft-Servern von _Canstein-Berlin.de_ erfassen und verarbeiten wir:
     * die Internet-Protokoll-Adressen (IP-Adressen)
