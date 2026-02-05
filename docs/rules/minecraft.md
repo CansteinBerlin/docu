@@ -60,4 +60,4 @@
 2. Wir behalten uns das Recht vor, Aufnahmen in Bild und Ton von Bauten auf dem Server zu produzieren und Konzepte zu 
    übernehmen. Im Falle des Ausstellens werden Erbauer:innen erwähnt. Das Original bleibt dabei unverändert.
 
-_Zuletzt inhaltlich geändert am: 08.01.2025_
+_Zuletzt inhaltlich geändert am: 05.02.2026_
