@@ -13,14 +13,14 @@
     4. Bei Kämpfen erstattet das Team grundsätzlich keine Items.
     5. Vermehrtes Töten ohne das Einverständnis der anderen Spieler*innen kann eine Strafe des Teams nach sich ziehen.
     6. Auftragsmord (mit oder ohne Belohnung) sind verboten, außer sie werden nach Zustimmung des Auftraggebers und der Ziel-Person ausgesetzt oder wenn der Auftraggeber und die Ziel-Person Role-Play Spieler sind (siehe Abschnitt 9: "Role-Play").
-5. Regionen:
+5. Fallen:
+    1. Fallen müssen sich innerhalb einer Region befinden, bei welcher nach Einstellung durch das Supportteam bei Betreten auf die besondere Gefahr dieser Falle hingewiesen wird. Fallen, die durch das Versenden von `/tpa` bzw. `/tpahere` funktionieren, sind verboten.
+6. Regionen:
     1. Alle Spieler*innen können ihre Bauwerke durch Regionen sichern lassen, die folgende Bedingungen erfüllen:
         1. Die Fläche der Region soll zeitnah (z.B. für den Bau) genutzt werden und soll nicht nur dem Besitz der Fläche dienen.
         2. Sie sollten nur den Bereich umfassen, der tatsächlich in absehbarer Zeit bebaut / benutzt wird.
-6. Server-Performance:
+7. Server-Performance:
     1. Massenhaltung von Tieren und leistungsfressende Schaltungen sollten vermieden werden.
-7. Fallen:
-    1. Fallen müssen sich innerhalb einer Region befinden, bei welcher nach Einstellung durch das Supportteam bei Betreten auf die besondere Gefahr dieser Falle hingewiesen wird. Fallen, die durch das Versenden von `/tpa` bzw. `/tpahere` funktionieren, sind verboten.
 8. Farmen:
     1. In der Oberwelt der Bau-Welten darf eine größere Farm (ab ca. einem Durchmesser von 50 Blöcken) nur bestehen, wenn sie außerhalb der Koordinaten `X = 3.000 bis -3.000` und `Y = 3.000 bis -3.000` liegt, nicht sichtbar ist (z.B. unterirdisch), eingebaut bzw. verschönert wurde oder sich im Bereich des Ozeans befindet.
 9. Role-Play:
