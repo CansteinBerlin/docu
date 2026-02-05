@@ -7,12 +7,12 @@
     1. Bei Verlust von Items, Blöcken, Mobs, Grundstücken oder Ähnlichem – egal, ob durch Client- oder Serverfehler – ist das Team nicht zwangsläufig verpflichtet, diese zu erstatten.
     2. Das Team erstattet nur, wenn der Fehler beim Server liegt. Eigenständiges Verschulden wird nicht erstattet. Zum Nachweis können Mods wie Replay Mod o.ä genutzt werden. Dies hängt davon ab, ob der Fehler bekannt, nachweisbar oder nachstellbar ist.
 4. Kämpfe gegen andere Spieler ("PVP"):
-    1. Canstein ist kein PVP-Server. Kämpfe sollten unter beidseitigem Einverständnis stattfinden. In diesem Fall entscheidet ihr, wie mit Verlusten an Items / XP umgegangen wird.
-    2. Ein beiderseitiges Einverständnis ist dann gegeben, wenn alle beteiligten Parteien im Chat einem Kampf zugestimmt haben.
-    3. Liegt kein Einverständnis von einer Seite vor, muss die angreifende Person sicherstellen, dass sämtliche Items / XP sofort zurückgegeben, bzw. erstattet werden.
-    4. Bei Kämpfen erstattet das Team grundsätzlich keine Items.
-    5. Vermehrtes Töten ohne das Einverständnis der anderen Spieler*innen kann eine Strafe des Teams nach sich ziehen.
-    6. Auftragsmord (mit oder ohne Belohnung) sind verboten, außer sie werden nach Zustimmung des Auftraggebers und der Ziel-Person ausgesetzt oder wenn der Auftraggeber und die Ziel-Person Role-Play Spieler sind (siehe Abschnitt 9: "Role-Play").
+    1. Canstein ist kein PVP-Server. Zur Regulierung der Kämpfe haben wir unser eigenes PVP-System. Standardmäßig befindet sich jeder Spieler im "Friedlich-Modus". Dieser kann mit `/peaceful` deaktiviert und wieder aktiviert werden. Der aktuelle Modus jedes Spielers wird in der Tabliste farbig angezeigt.
+    2. Personen im Friedlich-Modus dürfen nicht ohne ihr ausdrückliches Einverständnis (im Chat oder im VC Talk) angegriffen werden. Eventuell aufgesammelte Items müssen im Falle eines Angriffes dem Spieler wieder zurückgegeben werden.
+    3. Der Fairness halber dürfen Personen im Friedlich-Modus auch keinen anderen Spieler (egal in welchem Modus) ohne deren ausdrückliches Einverständnis (im Chat oder im VC Talk) angreifen. Auch das indirekte Beteiligen an einem Kampf ist hier untersagt.
+    4. Als Angriff zählen hier auch indirekte Wege einem Spieler Schaden zuzufügen, wie z.B. Lava-Attacken.
+    5. Ist eine Person nicht im Friedlich-Modus, stimmt sie etwaigen Kämpfen zu und riskiert jederzeit angegriffen und auch getötet zu werden. Das Server-Team erstattet in diesem Fall auch keine Items / XPs.
+    6. Ein absichtliches Austricksen des PVP-Systems und des Regelwerks ist verboten und wird bestraft.
 5. Fallen:
     1. Fallen müssen sich innerhalb einer Region befinden, bei welcher nach Einstellung durch das Supportteam bei Betreten auf die besondere Gefahr dieser Falle hingewiesen wird. Fallen, die durch das Versenden von `/tpa` bzw. `/tpahere` funktionieren, sind verboten.
 6. Regionen:
