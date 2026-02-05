@@ -13,7 +13,7 @@ Auch auf dem Survival-Server finden (meist im Freebuild-Bereich) ab und zu klein
 - Bau-Welten: `/warp spawn`
 - Farm-Welten:
     * Oberwelt: `/warp farm`
-    * Nether: `/warp nehterfarm`
+    * Nether: `/warp netherfarm`
     * automatische Sand-Farm: `/warp sandfarm`
     * automatische Kies-Farm: `/warp gravelfarm`
 
