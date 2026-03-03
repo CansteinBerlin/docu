@@ -13,7 +13,7 @@
     4. Als Angriff zählen hier auch indirekte Wege einem Spieler Schaden zuzufügen, wie z.B. Lava-Attacken.
     5. Ist eine Person nicht im Friedlich-Modus, stimmt sie etwaigen Kämpfen zu und riskiert jederzeit angegriffen und auch getötet zu werden. Das Server-Team erstattet in diesem Fall auch keine Items / XPs.
     6. Ein absichtliches Austricksen des PVP-Systems und des Regelwerks ist verboten und wird bestraft.
-    7. Bei Verstoß gegen die PVP-Regeln können ohne Vorwarnungen Konsequenzen folgen.
+    7. Bei Verstoß gegen die PVP-Regeln (und nachfolgender Beschwerde des angegriffenen Spielers beim Support) können ohne Vorwarnungen Konsequenzen folgen.
 5. Fallen:
     1. Fallen müssen sich innerhalb einer Region befinden, bei welcher nach Einstellung durch das Supportteam bei Betreten auf die besondere Gefahr dieser Falle hingewiesen wird. Fallen, die durch das Versenden von `/tpa` bzw. `/tpahere` funktionieren, sind verboten.
 6. Gräber:
