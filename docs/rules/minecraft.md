@@ -15,15 +15,17 @@
     6. Ein absichtliches Austricksen des PVP-Systems und des Regelwerks ist verboten und wird bestraft.
 5. Fallen:
     1. Fallen müssen sich innerhalb einer Region befinden, bei welcher nach Einstellung durch das Supportteam bei Betreten auf die besondere Gefahr dieser Falle hingewiesen wird. Fallen, die durch das Versenden von `/tpa` bzw. `/tpahere` funktionieren, sind verboten.
-6. Regionen:
+6. Gräber:
+   1. Das Einbauen von Gräbern oder das Hindern am Leeren von Gräbern ist verboten.
+7. Regionen:
     1. Alle Spieler*innen können ihre Bauwerke durch Regionen sichern lassen, die folgende Bedingungen erfüllen:
         1. Die Fläche der Region soll zeitnah (z.B. für den Bau) genutzt werden und soll nicht nur dem Besitz der Fläche dienen.
         2. Sie sollten nur den Bereich umfassen, der tatsächlich in absehbarer Zeit bebaut / benutzt wird.
-7. Server-Performance:
+8. Server-Performance:
     1. Massenhaltung von Tieren und leistungsfressende Schaltungen sollten vermieden werden.
-8. Farmen:
+9. Farmen:
     1. In der Oberwelt der Bau-Welten darf eine größere Farm (ab ca. einem Durchmesser von 50 Blöcken) nur bestehen, wenn sie außerhalb der Koordinaten `X = 3.000 bis -3.000` und `Y = 3.000 bis -3.000` liegt, nicht sichtbar ist (z.B. unterirdisch), eingebaut bzw. verschönert wurde oder sich im Bereich des Ozeans befindet.
-9. Role-Play:
+10. Role-Play:
     1. Auf dem Survival-Server (normaler Modus, nicht SkyBlock) gibt es ein optionales Role-Play System, dass für die Teilnehmer einer "Allianz" (Guilde) innerhalb einer Allianz-Region kompetitive Spielweisen erlaubt und Ausnahmen für die oben genannten Regeln gewährt.
     2. Um am Role-Play teilzunehmen, muss man Teil einer registrierten Allianz sein.
     3. Alle registrierten Allianzen hängen am Spawn des Survival-Servers mit einem direkten Support-Ansprechpartner und der aktuellen Mitglieder-Liste aus.
@@ -34,7 +36,7 @@
         1. Die Allianz-Region ist eine vom Support angelegte Region, die zur Allianz gehört. Nur in dieser ist (kompetitives) Role-Play erlaubt.
         2. Es muss beim Beitritt der Region darauf hingewiesen werden, dass dies eine Allianz-Region ist (meist mit der "greeting" Flag).
     6. Ziel des Role-Play Systems ist der langfristige Spielspaß aller Parteien.
-10. Warps:
+11. Warps:
     1. Für große öffentliche Plätze (inkl. öffentliche Farmen) können beim Support Warp-Punkte beantragt werden. Diese Warps hängen dann am SV-Spawn aus und sind für alle via `/warp <Warp-Name>` erreichbar.
 
 ## §2 Kreativ
