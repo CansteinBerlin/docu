@@ -16,7 +16,7 @@
 5. Fallen:
     1. Fallen müssen sich innerhalb einer Region befinden, bei welcher nach Einstellung durch das Supportteam bei Betreten auf die besondere Gefahr dieser Falle hingewiesen wird. Fallen, die durch das Versenden von `/tpa` bzw. `/tpahere` funktionieren, sind verboten.
 6. Gräber:
-   1. Das Einbauen von Gräbern oder das Hindern am Leeren von Gräbern ist verboten.
+    1. Das Einbauen von Gräbern oder das Hindern am Leeren von Gräbern ist verboten.
 7. Regionen:
     1. Alle Spieler*innen können ihre Bauwerke durch Regionen sichern lassen, die folgende Bedingungen erfüllen:
         1. Die Fläche der Region soll zeitnah (z.B. für den Bau) genutzt werden und soll nicht nur dem Besitz der Fläche dienen.
