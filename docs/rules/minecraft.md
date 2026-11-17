@@ -27,7 +27,7 @@
 9. Farmen:
     1. In der Oberwelt der Bau-Welten darf eine größere Farm (ab ca. einem Durchmesser von 50 Blöcken) nur bestehen, wenn sie außerhalb der Koordinaten `X = 3.000 bis -3.000` und `Y = 3.000 bis -3.000` liegt, nicht sichtbar ist (z.B. unterirdisch), eingebaut bzw. verschönert wurde oder sich im Bereich des Ozeans befindet.
 10. Role-Play:
-    1. Auf dem Survival-Server (normaler Modus, nicht SkyBlock) gibt es ein optionales Role-Play System, dass für die Teilnehmer einer "Allianz" (Guilde) innerhalb einer Allianz-Region Rollenspiele erlaubt.
+    1. Auf dem Survival-Server (normaler Modus, nicht SkyBlock) gibt es optionales Role-Play, dass für die Teilnehmer einer "Allianz" (Guilde) innerhalb einer Allianz-Region Rollenspiele erlaubt.
     2. Allianz-Region:
         1. Jede Allianz muss eine Allianz Region besitzen, welche vom Support angelegt und gesichert wird.
         2. Nur in dieser ist Role-Play erlaubt.
