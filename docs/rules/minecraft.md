@@ -27,16 +27,13 @@
 9. Farmen:
     1. In der Oberwelt der Bau-Welten darf eine größere Farm (ab ca. einem Durchmesser von 50 Blöcken) nur bestehen, wenn sie außerhalb der Koordinaten `X = 3.000 bis -3.000` und `Y = 3.000 bis -3.000` liegt, nicht sichtbar ist (z.B. unterirdisch), eingebaut bzw. verschönert wurde oder sich im Bereich des Ozeans befindet.
 10. Role-Play:
-    1. Auf dem Survival-Server (normaler Modus, nicht SkyBlock) gibt es ein optionales Role-Play System, dass für die Teilnehmer einer "Allianz" (Guilde) innerhalb einer Allianz-Region kompetitive Spielweisen erlaubt und Ausnahmen für die oben genannten Regeln gewährt.
-    2. Um am Role-Play teilzunehmen, muss man Teil einer registrierten Allianz sein.
-    3. Alle registrierten Allianzen hängen am Spawn des Survival-Servers mit einem direkten Support-Ansprechpartner und der aktuellen Mitglieder-Liste aus.
-    4. Beantragung einer Allianz:
-        1. Eine Allianz muss mindestens zwei Mitglieder haben.
-        2. Zu Beginn ist eine Beantragung der Allianz beim Team in Form eines Support-Tickets mit Allianzname, Anführer / Leitung und Anzahl der Mitglieder notwendig.
-    5. Allianz-Region:
-        1. Die Allianz-Region ist eine vom Support angelegte Region, die zur Allianz gehört. Nur in dieser ist (kompetitives) Role-Play erlaubt.
-        2. Es muss beim Beitritt der Region darauf hingewiesen werden, dass dies eine Allianz-Region ist (meist mit der "greeting" Flag).
-    6. Ziel des Role-Play Systems ist der langfristige Spielspaß aller Parteien.
+    1. Auf dem Survival-Server (normaler Modus, nicht SkyBlock) gibt es optionales Role-Play, dass für die Teilnehmer einer "Allianz" (Guilde) innerhalb einer Allianz-Region Rollenspiele erlaubt.
+    2. Allianz-Region:
+        1. Jede Allianz muss eine Allianz Region besitzen, welche vom Support angelegt und gesichert wird.
+        2. Nur in dieser ist Role-Play erlaubt.
+        3. Es muss beim Beitritt der Region darauf hingewiesen werden, dass dies eine Allianz-Region ist (meist mit einer Nachricht im Chat).
+    3. Role Play darf nicht den Spielspaß von anderen beeinträchtigen.
+    4. Eine Rolle im Role-Play ermächtigt nicht zum Brechen der Serverregeln.
 11. Warps:
     1. Für große öffentliche Plätze (inkl. öffentliche Farmen) können beim Support Warp-Punkte beantragt werden. Diese Warps hängen dann am SV-Spawn aus und sind für alle via `/warp <Warp-Name>` erreichbar.
 
@@ -44,7 +41,7 @@
 1. Auf dem Kreativ-Server ist zuerst der*die Besitzer*in einer Parzelle für den Inhalt verantwortlich. Regelwidrige Bauten der Mitbenutzer*innen sind zu entfernen und die Verantwortlichen zur Not dem Team zu melden.
 
 ## §3 Modifikationen
-1. Jeglicher Gebrauch von Cheats, Hacks oder Hackclients ist untersagt.
+1. Jeglicher Gebrauch von Cheats, Hacks, KI oder Hackclients ist untersagt.
 2. Jegliche Mods, die einen größeren Spielvorteil gegenüber anderen Spieler*innen ermöglichen, sind verboten. Ausgenommen davon sind: Freecam, Autoklicker, Minimap und Leistungs- sowie Grafikverbesserungen.
     1. Freecam: Die Freecam darf nicht eine Erweiterung der Person sein. Die Freecam darf z.B. nicht Knöpfe, Türen etc. verwenden können. Ebenfalls sind Freecams mit X-Ray untersagt.
 3. Frage im Zweifel ein Teammitglied.
