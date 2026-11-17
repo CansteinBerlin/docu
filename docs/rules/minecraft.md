@@ -41,7 +41,7 @@
 1. Auf dem Kreativ-Server ist zuerst der*die Besitzer*in einer Parzelle für den Inhalt verantwortlich. Regelwidrige Bauten der Mitbenutzer*innen sind zu entfernen und die Verantwortlichen zur Not dem Team zu melden.
 
 ## §3 Modifikationen
-1. Jeglicher Gebrauch von Cheats, Hacks oder Hackclients ist untersagt.
+1. Jeglicher Gebrauch von Cheats, Hacks, KI oder Hackclients ist untersagt.
 2. Jegliche Mods, die einen größeren Spielvorteil gegenüber anderen Spieler*innen ermöglichen, sind verboten. Ausgenommen davon sind: Freecam, Autoklicker, Minimap und Leistungs- sowie Grafikverbesserungen.
     1. Freecam: Die Freecam darf nicht eine Erweiterung der Person sein. Die Freecam darf z.B. nicht Knöpfe, Türen etc. verwenden können. Ebenfalls sind Freecams mit X-Ray untersagt.
 3. Frage im Zweifel ein Teammitglied.
